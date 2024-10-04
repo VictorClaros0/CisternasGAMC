@@ -13,7 +13,7 @@ namespace CisternasGAMC.Model
         [ForeignKey("Cistern")]
         public byte CisternId { get; set; }
 
-        [ForeignKey("Driver")]
+        [ForeignKey("User")]
         public short DriverId { get; set; }
 
         [ForeignKey("Otb")]

@@ -1,0 +1,54 @@
+﻿@page
+@model CisternasGAMC.Pages.Admin.Cruds.CisternCrud.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Cistern</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Cistern.Status" class="control-label"></label>
+                <input asp-for="Cistern.Status" class="form-control" />
+                <span asp-validation-for="Cistern.Status" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cistern.PlateNumber" class="control-label"></label>
+                <input asp-for="Cistern.PlateNumber" class="form-control" />
+                <span asp-validation-for="Cistern.PlateNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cistern.Capacity" class="control-label"></label>
+                <input asp-for="Cistern.Capacity" class="form-control" />
+                <span asp-validation-for="Cistern.Capacity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cistern.RegisterDate" class="control-label"></label>
+                <input asp-for="Cistern.RegisterDate" class="form-control" />
+                <span asp-validation-for="Cistern.RegisterDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cistern.LastUpdate" class="control-label"></label>
+                <input asp-for="Cistern.LastUpdate" class="form-control" />
+                <span asp-validation-for="Cistern.LastUpdate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
