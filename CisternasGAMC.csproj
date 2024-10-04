@@ -9,9 +9,10 @@
   <ItemGroup>
     <Folder Include="Data\" />
     <Folder Include="Migrations\" />
-    <Folder Include="Services\" />
+    <Folder Include="Pages\Citizen\" />
+    <Folder Include="Pages\Driver\" />
     <Folder Include="Pages\Login\" />
-    <Folder Include="Pages\Otb\" />
+    <Folder Include="Services\" />
     <Folder Include="wwwroot\images\" />
   </ItemGroup>
 

@@ -171,12 +171,12 @@
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kiurt\\source\\repos\\CisternasGAMC\\Migrations\\20241004215859_PrimeraMC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241004215859_PrimeraMC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\kiurt\\source\\repos\\cisternasgamc\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\kiurt\\source\\repos\\cisternasgamc\\migrations\\20241004215859_primeramc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:migrations\\20241004215859_primeramc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -196,7 +196,7 @@
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\prueba.cshtml",
               "ToolTip": "C:\\Users\\Kiurt\\source\\repos\\CisternasGAMC\\Pages\\Admin\\Cruds\\prueba.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\prueba.cshtml",
-              "ViewState": "AQIAAGUEAAAAAAAAAAAAAHoEAAAAAAAA",
+              "ViewState": "AQIAANsDAAAAAAAAAAAAAHoEAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-04T23:07:34.162Z",
               "EditorCaption": ""
@@ -211,8 +211,7 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T22:54:35.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:35.287Z"
             },
             {
               "$type": "Document",
@@ -224,8 +223,7 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Details.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:54:35.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:35.192Z"
             },
             {
               "$type": "Document",
@@ -237,8 +235,7 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T22:54:35.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:35.097Z"
             },
             {
               "$type": "Document",
@@ -250,8 +247,7 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\CisternCrud\\Create.cshtml",
               "ViewState": "AQIAABsAAAAAAAAAAAAAAA0AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T22:53:05.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:53:05.091Z"
             },
             {
               "$type": "Document",
@@ -263,8 +259,7 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T22:54:35.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:35.551Z"
             },
             {
               "$type": "Document",
@@ -276,8 +271,7 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\CisternCrud\\Create.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:53:05.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:53:05.179Z"
             },
             {
               "$type": "Document",
@@ -289,8 +283,7 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Delete.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:54:35.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:35.385Z"
             },
             {
               "$type": "Document",
@@ -302,8 +295,7 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Index.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:54:35.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:35.626Z"
             },
             {
               "$type": "Document",
@@ -315,8 +307,7 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Edit.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:54:35.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:35.011Z"
             },
             {
               "$type": "Document",
@@ -328,8 +319,7 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T22:54:34.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:34.933Z"
             },
             {
               "$type": "Document",
@@ -341,8 +331,7 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Create.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:54:34.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:34.849Z"
             },
             {
               "$type": "Document",
@@ -354,8 +343,7 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T22:54:34.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:34.746Z"
             },
             {
               "$type": "Document",
@@ -367,8 +355,7 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\OtbCrud\\Index.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:54:02.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:02.213Z"
             },
             {
               "$type": "Document",
@@ -380,8 +367,7 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\OtbCrud\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T22:54:02.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:02.125Z"
             },
             {
               "$type": "Document",
@@ -393,8 +379,7 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\OtbCrud\\Delete.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:54:02.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:02.038Z"
             },
             {
               "$type": "Document",
@@ -406,8 +391,7 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\OtbCrud\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T22:54:01.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:01.954Z"
             },
             {
               "$type": "Document",
@@ -419,8 +403,7 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\OtbCrud\\Details.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:54:01.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:01.863Z"
             },
             {
               "$type": "Document",
@@ -432,8 +415,7 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\OtbCrud\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T22:54:01.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:01.781Z"
             },
             {
               "$type": "Document",
@@ -445,8 +427,7 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\OtbCrud\\Edit.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:54:01.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:01.689Z"
             },
             {
               "$type": "Document",
@@ -458,8 +439,7 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\OtbCrud\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T22:54:01.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:01.614Z"
             },
             {
               "$type": "Document",
@@ -471,8 +451,7 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\OtbCrud\\Create.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:54:01.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:01.532Z"
             },
             {
               "$type": "Document",
@@ -484,8 +463,7 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\OtbCrud\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T22:54:01.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:01.388Z"
             },
             {
               "$type": "Document",
@@ -497,8 +475,7 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\CisternCrud\\Index.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:53:06.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:53:06.027Z"
             },
             {
               "$type": "Document",
@@ -510,8 +487,7 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\CisternCrud\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T22:53:05.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:53:05.937Z"
             },
             {
               "$type": "Document",
@@ -523,8 +499,7 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\CisternCrud\\Delete.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:53:05.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:53:05.833Z"
             },
             {
               "$type": "Document",
@@ -536,8 +511,7 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\CisternCrud\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T22:53:05.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:53:05.741Z"
             },
             {
               "$type": "Document",
@@ -549,8 +523,7 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\CisternCrud\\Details.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:53:05.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:53:05.576Z"
             },
             {
               "$type": "Document",
@@ -562,8 +535,7 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\CisternCrud\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T22:53:05.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:53:05.423Z"
             },
             {
               "$type": "Document",
@@ -575,8 +547,7 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\CisternCrud\\Edit.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:53:05.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:53:05.336Z"
             },
             {
               "$type": "Document",
@@ -588,8 +559,7 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\CisternCrud\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T22:53:05.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:53:05.262Z"
             },
             {
               "$type": "Document",
@@ -601,8 +571,7 @@
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T21:51:47.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T21:51:47.434Z"
             },
             {
               "$type": "Document",
@@ -614,8 +583,7 @@
               "RelativeToolTip": "Model\\Cistern.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T16:43:28.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T16:43:28.535Z"
             },
             {
               "$type": "Document",
@@ -627,8 +595,7 @@
               "RelativeToolTip": "Model\\Otb.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T18:01:57.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T18:01:57.236Z"
             },
             {
               "$type": "Document",
@@ -640,8 +607,7 @@
               "RelativeToolTip": "Model\\User.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAgwC8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T18:03:27.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T18:03:27.283Z"
             },
             {
               "$type": "Document",
@@ -653,8 +619,7 @@
               "RelativeToolTip": "Model\\WaterDelivery.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAAwCUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T18:12:07.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T18:12:07.923Z"
             },
             {
               "$type": "Document",
@@ -666,8 +631,7 @@
               "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
               "ViewState": "AQIAAFcAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-04T22:26:20.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:26:20.528Z"
             },
             {
               "$type": "Document",
@@ -678,8 +642,7 @@
               "ToolTip": "C:\\Users\\Kiurt\\source\\repos\\CisternasGAMC\\CisternasGAMC.csproj",
               "RelativeToolTip": "CisternasGAMC.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-04T22:17:13.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:17:13.838Z"
             },
             {
               "$type": "Document",
@@ -691,8 +654,7 @@
               "RelativeToolTip": "wwwroot\\js\\site.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-04T22:17:00.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:17:00.437Z"
             },
             {
               "$type": "Document",
@@ -704,8 +666,7 @@
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-04T22:16:55.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:16:55.086Z"
             },
             {
               "$type": "Document",
@@ -717,8 +678,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T21:47:53.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T21:47:53.411Z"
             },
             {
               "$type": "Document",
@@ -730,12 +690,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-04T21:48:46.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T21:48:46.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "20241004215859_PrimeraMC.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\source\\repos\\CisternasGAMC\\Migrations\\20241004215859_PrimeraMC.cs",
               "RelativeDocumentMoniker": "Migrations\\20241004215859_PrimeraMC.cs",
@@ -743,12 +702,11 @@
               "RelativeToolTip": "Migrations\\20241004215859_PrimeraMC.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T21:58:59.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T21:58:59.594Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 42,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\source\\repos\\CisternasGAMC\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
@@ -756,8 +714,7 @@
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T18:46:01.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T18:46:01.396Z"
             }
           ]
         }
