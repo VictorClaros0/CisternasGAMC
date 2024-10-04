@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Kiurt\\source\\repos\\CisternasGAMC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\kiurt\\source\\repos\\cisternasgamc\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\kiurt\\source\\repos\\cisternasgamc\\model\\cistern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:model\\cistern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kiurt\\source\\repos\\CisternasGAMC\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Kiurt\\source\\repos\\CisternasGAMC\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T18:46:01.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "WaterDelivery.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\source\\repos\\CisternasGAMC\\Model\\WaterDelivery.cs",
               "RelativeDocumentMoniker": "Model\\WaterDelivery.cs",
@@ -38,12 +55,11 @@
               "RelativeToolTip": "Model\\WaterDelivery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T18:12:07.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T18:12:07.923Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\source\\repos\\CisternasGAMC\\Model\\User.cs",
               "RelativeDocumentMoniker": "Model\\User.cs",
@@ -51,12 +67,11 @@
               "RelativeToolTip": "Model\\User.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAgwCwAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T18:03:27.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T18:03:27.283Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Otb.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\source\\repos\\CisternasGAMC\\Model\\Otb.cs",
               "RelativeDocumentMoniker": "Model\\Otb.cs",
@@ -64,12 +79,11 @@
               "RelativeToolTip": "Model\\Otb.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAUwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T18:01:57.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T18:01:57.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Cistern.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\source\\repos\\CisternasGAMC\\Model\\Cistern.cs",
               "RelativeDocumentMoniker": "Model\\Cistern.cs",
