@@ -14,15 +14,14 @@
                     <div class="card card-primary" style="border-radius: 15px; padding: 20px;">
                         <div class="card-header" style="border-radius: 15px; padding: 10px;">
                             <h3 class="card-title">
-                                @* Aquí puedes habilitar mensajes sobre la disponibilidad de la cisterna
                                 @if (Model.IsCisternAvailable)
                                 {
-                                <text>La Cisterna se encuentra en la OTB "@Model.CisternName"</text>
+                                    <text>@Model.CisternStatusMessage</text>
                                 }
                                 else
                                 {
-                                <text>La Cisterna no se encuentra en servicio</text>
-                                } *@
+                                    <text>@Model.CisternStatusMessage</text>
+                                }
                             </h3>
                         </div>
                         <div class="card-body">
