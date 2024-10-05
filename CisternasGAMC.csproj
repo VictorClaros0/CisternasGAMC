@@ -13,7 +13,6 @@
     <Folder Include="Pages\Driver\" />
     <Folder Include="Pages\Login\" />
     <Folder Include="Services\" />
-    <Folder Include="wwwroot\images\" />
   </ItemGroup>
 
   <ItemGroup>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "d6QSebIm6eSWwwhHVzWt8KG3HvgCFYi76la4Vdarj6w=",
+  "Hash": "x76RQVuStZwNUKxdogkVJzRwBLcpf3I/Ocf22NasXWU=",
   "Source": "CisternasGAMC",
   "BasePath": "_content/CisternasGAMC",
   "Mode": "Default",
@@ -623,6 +623,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Kiurt\\source\\repos\\CisternasGAMC\\wwwroot\\images\\Logos\\LogoCochabamba.png",
+      "SourceId": "CisternasGAMC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kiurt\\source\\repos\\CisternasGAMC\\wwwroot\\",
+      "BasePath": "_content/CisternasGAMC",
+      "RelativePath": "images/Logos/LogoCochabamba.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Logos\\LogoCochabamba.png"
     },
     {
       "Identity": "C:\\Users\\Kiurt\\source\\repos\\CisternasGAMC\\wwwroot\\js\\.eslintrc.json",

@@ -125,6 +125,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Kiurt\\source\\repos\\CisternasGAMC\\wwwroot\\images\\Logos\\LogoCochabamba.png",
+      "PackagePath": "staticwebassets\\images\\Logos\\LogoCochabamba.png"
+    },
+    {
       "Id": "C:\\Users\\Kiurt\\source\\repos\\CisternasGAMC\\wwwroot\\js\\.eslintrc.json",
       "PackagePath": "staticwebassets\\js\\.eslintrc.json"
     },
