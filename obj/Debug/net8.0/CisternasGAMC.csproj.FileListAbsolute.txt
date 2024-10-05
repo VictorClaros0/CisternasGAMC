@@ -251,3 +251,4 @@ C:\Users\Kiurt\source\repos\CisternasGAMC\bin\Debug\net8.0\runtimes\win\lib\net7
 C:\Users\Kiurt\source\repos\CisternasGAMC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\Kiurt\source\repos\CisternasGAMC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Kiurt\source\repos\CisternasGAMC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Kiurt\source\repos\CisternasGAMC\obj\Debug\net8.0\scopedcss\Pages\Shared\_LayoutAdmin.cshtml.rz.scp.css
