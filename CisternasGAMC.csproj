@@ -9,7 +9,6 @@
   <ItemGroup>
     <Folder Include="Data\" />
     <Folder Include="Migrations\" />
-    <Folder Include="Pages\Citizen\" />
     <Folder Include="Pages\Driver\" />
     <Folder Include="Pages\Login\" />
     <Folder Include="Services\" />

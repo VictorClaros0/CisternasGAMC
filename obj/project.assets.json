@@ -7718,19 +7718,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Kiurt\\.nuget\\packages\\": {}
+    "C:\\Users\\ManuelDavidMonegroVa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kiurt\\source\\repos\\CisternasGAMC\\CisternasGAMC.csproj",
+      "projectUniqueName": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\CisternasGAMC.csproj",
       "projectName": "CisternasGAMC",
-      "projectPath": "C:\\Users\\Kiurt\\source\\repos\\CisternasGAMC\\CisternasGAMC.csproj",
-      "packagesPath": "C:\\Users\\Kiurt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kiurt\\source\\repos\\CisternasGAMC\\obj\\",
+      "projectPath": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\CisternasGAMC.csproj",
+      "packagesPath": "C:\\Users\\ManuelDavidMonegroVa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Kiurt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ManuelDavidMonegroVa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
