@@ -3,7 +3,6 @@
 @{
     Layout = "_Layout";
 }
-
 <div class="content-fluid">
     <!-- Contenido principal -->
     <section class="content">
@@ -26,7 +25,7 @@
                         </div>
                         <div class="card-body">
                             <!-- Formulario de selección -->
-                            <form method="post">
+                            <form method="get" asp-page="CisternCalendar">
                                 <div class="form-group">
                                     <label for="distritoSelect">Selecciona tu Distrito</label>
                                     <select class="form-control" id="distritoSelect" name="SelectedDistrito" asp-for="SelectedDistrito">
@@ -56,3 +55,6 @@
         </div>
     </section>
 </div>
+@section Scripts {
+    <script src="~/js/distritos.js"></script>
+}

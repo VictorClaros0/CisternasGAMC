@@ -16,8 +16,8 @@ namespace CisternasGAMC.Pages.Citizen
         [BindProperty]
         public byte? SelectedDistrito { get; set; }  // Cambia el tipo según sea necesario
 
-        public IList<Otb> Otbs { get; set; }
-        public IList<byte> Distritos { get; set; }
+        public IList<Otb> Otbs { get; set; } = new List<Otb>();
+        public IList<byte> Distritos { get; set; } = new List<byte>();
 
         // Propiedad para mostrar el estado de la cisterna
         public string CisternStatusMessage { get; set; }
@@ -32,14 +32,24 @@ namespace CisternasGAMC.Pages.Citizen
         // Método que se ejecuta al cargar la página
         public void OnGet()
         {
-            // Obtener todos los OTBs de la base de datos
-            Otbs = _context.Otbs.ToList();
+            // Cargar todos los OTBs y Distritos al cargar la página por primera vez
+            LoadDistrictsAndOtbs();
+            LoadCisternStatus();
+        }
 
-            // Obtener distritos únicos de los OTBs
+       
+
+        private void LoadDistrictsAndOtbs()
+        {
+            Otbs = _context.Otbs.ToList();
             Distritos = _context.Otbs
-                .Select(o => o.District) // Asumiendo que 'District' es el atributo que contiene el valor numérico
+                .Select(o => o.District)
                 .Distinct()
                 .ToList();
+        }
+
+        private void LoadCisternStatus()
+        {
             var cistern = _context.Cisterns.FirstOrDefault();
 
             if (cistern != null)
@@ -67,12 +77,16 @@ namespace CisternasGAMC.Pages.Citizen
                 IsCisternAvailable = false;
             }
         }
-
-        // Método que se ejecuta al enviar el formulario
-        public void OnPost()
+        public JsonResult OnGetOtbs(byte district)
         {
-            Otbs = _context.Otbs.ToList();
-            Distritos = _context.Otbs.Select(o => o.District).Distinct().ToList();
+            var filteredOtbs = _context.Otbs
+                .Where(o => o.District == district)
+                .Select(o => new { o.OtbId, o.Name })  // Asegúrate de devolver estas propiedades
+                .ToList();
+
+            return new JsonResult(filteredOtbs);
         }
+
+
     }
 }
