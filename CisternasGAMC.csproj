@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <_ContentIncludedByDefault Remove="wwwroot\css\Calendar.css" />
     <_ContentIncludedByDefault Remove="wwwroot\js\distritos.js" />
   </ItemGroup>
 

@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
     <link rel="stylesheet" href="@Url.Content("~/lib/fontawesome-free/css/all.min.css")" asp-append-version="true">
     <link rel="stylesheet" href="@Url.Content("~/css/adminlte.min.css")" asp-append-version="true">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fullcalendar@5.10.1/main.min.css" asp-append-version="true"> <!-- Asegúrate de incluir esto -->
+    <link rel="stylesheet" href="@Url.Content("~/css/Calendar.css")" asp-append-version="true"> <!-- Opcional -->
     <link rel="stylesheet" href="@Url.Content("~/CisternasGAMC.styles.css")" asp-append-version="true" />
 </head>
 <body>
@@ -44,6 +46,8 @@
     <script src="@Url.Content("~/lib/jquery/jquery.min.js")" asp-append-version="true"></script>
     <script src="@Url.Content("~/lib/bootstrap/js/bootstrap.bundle.min.js")" asp-append-version="true"></script>
     <script src="@Url.Content("~/js/adminlte.js")" asp-append-version="true"></script>
+    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.10.1/main.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.10.1/locales-all.min.js"></script> <!-- Agrega esto para soporte de idiomas si es necesario -->
     @RenderSection("Scripts", required: false)
 
 </body>

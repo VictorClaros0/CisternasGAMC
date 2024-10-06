@@ -1,0 +1,51 @@
+﻿body {
+}
+.fc {
+    padding: 10px;
+}
+/* Centrar el título */
+.calendar-title {
+    text-align: center;
+    margin-bottom: 20px;
+}
+/* Ocultar elementos específicos */
+.fc-timeGridWeek-button, .fc-prev-button, .fc-next-button, .fc-today-button {
+    display: none !important;
+}
+.fc-timegrid-slot-label-cushion {
+    display: flex; /* Usar flexbox para el contenedor */
+    justify-content: center; /* Centrar el texto horizontalmente */
+    align-items: center; /* Centrar el texto verticalmente */
+    /*width: 100%;*/ /* Hacer que el ancho sea del 100% del contenedor */
+    /*font-size: 1.5em;*/ /* Aumentar el tamaño de la fuente */
+}
+
+/* Limitar la altura del calendario */
+.fc-timegrid {
+    max-height: 300px; /* Ajusta la altura máxima según tus necesidades */
+    overflow-y: auto; /* Añade scroll si el contenido es más alto */
+}
+.fc-direction-ltr .fc-timegrid-slot-label-frame {
+    text-align: left;
+}
+.fc .fc-view-harness {
+    flex-grow: 1;
+    position: relative;
+    max-height: 300px;
+}
+.fc-col-header-cell {
+    flex: 1; /* Hace que cada celda de encabezado tome espacio igual */
+    text-align: center; /* Centra el texto */
+}
+
+/* Ajusta el tamaño del texto para que sea responsivo */
+.fc-col-header-cell-cushion {
+    font-size: 1.2rem; /* Ajusta este valor según sea necesario */
+}
+
+/* Estilo adicional para pantallas pequeñas */
+@media (max-width: 600px) {
+    .fc-col-header-cell-cushion {
+        font-size: 0.5rem; /* Reduce el tamaño del texto en pantallas pequeñas */
+    }
+}

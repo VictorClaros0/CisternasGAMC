@@ -1,34 +1,9 @@
 ﻿@page
 @model CisternasGAMC.Pages.Citizen.CisternCalendarModel
 @{
-    Layout = "_Layout";
+    Layout = "_Layout"; // Esto ya incluye el <head>
 }
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/admin-lte@3.1.0/dist/css/adminlte.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fullcalendar@5.10.1/main.min.css">
-    <title>Calendario Semanal AdminLTE</title>
-    <style>
-        /* Ajustes opcionales de estilo */
-        .fc {
-            padding: 10px;
-        }
-        /* Centrar el título */
-        .calendar-title {
-            text-align: center;
-            margin-bottom: 20px;
-        }
-        /* Ocultar elementos específicos */
-        .fc-timeGridWeek-button, .fc-prev-button, .fc-next-button, .fc-today-button {
-            display: none !important;
-        }
-    </style>
-</head>
 <body class="hold-transition sidebar-mini">
 
     <div class="wrapper">
@@ -42,33 +17,12 @@
                     <!-- Contenedor del calendario -->
                     <div id="calendar"></div>
 
-                    <!-- FullCalendar CSS y JS -->
-                    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-                    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.10.1/main.min.js"></script>
-                    <script>
-                        document.addEventListener('DOMContentLoaded', function () {
-                            var calendarEl = document.getElementById('calendar');
-
-                            var calendar = new FullCalendar.Calendar(calendarEl, {
-                                initialView: 'timeGridWeek', // Vista semanal
-                                headerToolbar: {
-                                    left: '', // Ocultar botones de navegación
-                                    center: 'title',
-                                    right: ''
-                                },
-                                allDaySlot: false, // Desactivar la vista de "todo el día"
-                                slotMinTime: "08:00:00", // Empieza a las 8 am
-                                slotMaxTime: "20:00:00", // Termina a las 8 pm
-                            });
-
-                            calendar.render();
-                        });
-                    </script>
                 </div>
             </section>
         </div>
     </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/admin-lte@3.1.0/dist/js/adminlte.min.js"></script>
+    <!-- Incluye el archivo JavaScript -->
+    <script src="~/js/Calendar.js"></script> <!-- Asegúrate de que la ruta sea correcta -->
+
 </body>
-</html>

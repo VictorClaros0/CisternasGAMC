@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "x8e4coWwqqgGmYxuI3LWdy5wCTEZXD9yYLrbI5/JT2w=",
+  "Hash": "wTewhZEFp+LABTFmMPDCecYPVj31/mDRwUvCmoqxeI8=",
   "Source": "CisternasGAMC",
   "BasePath": "_content/CisternasGAMC",
   "Mode": "Default",
@@ -587,6 +587,25 @@
       "OriginalItemSpec": "wwwroot\\css\\alt\\adminlte.plugins.min.css.map"
     },
     {
+      "Identity": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\wwwroot\\css\\Calendar.css",
+      "SourceId": "CisternasGAMC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\wwwroot\\",
+      "BasePath": "_content/CisternasGAMC",
+      "RelativePath": "css/Calendar.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Calendar.css"
+    },
+    {
       "Identity": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\wwwroot\\css\\site.css",
       "SourceId": "CisternasGAMC",
       "SourceType": "Discovered",
@@ -737,6 +756,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\adminlte.min.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\wwwroot\\js\\Calendar.js",
+      "SourceId": "CisternasGAMC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\wwwroot\\",
+      "BasePath": "_content/CisternasGAMC",
+      "RelativePath": "js/Calendar.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Calendar.js"
     },
     {
       "Identity": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\wwwroot\\js\\demo.js",
