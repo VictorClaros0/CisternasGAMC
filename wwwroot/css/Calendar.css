@@ -1,4 +1,9 @@
 ﻿body {
+
+}
+#calendar {
+    width: 100%;
+    height: 500px; /* O el tamaño que desees */
 }
 .fc {
     padding: 10px;
