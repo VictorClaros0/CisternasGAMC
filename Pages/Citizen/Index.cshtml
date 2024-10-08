@@ -28,7 +28,7 @@
                             <form method="get" asp-page="CisternCalendar">
                                 <div class="form-group">
                                     <label for="distritoSelect">Selecciona tu Distrito</label>
-                                    <select class="form-control" id="distritoSelect" name="SelectedDistrito" asp-for="SelectedDistrito">
+                                    <select class="form-control form-control-lg" id="distritoSelect" name="SelectedDistrito" asp-for="SelectedDistrito">
                                         <option value="">Seleccione un distrito</option>
                                         @foreach (var distrito in Model.Distritos)
                                         {
@@ -38,7 +38,7 @@
                                 </div>
                                 <div class="form-group">
                                     <label for="otbSelect">Selecciona un OTB</label>
-                                    <select id="otbSelect" name="selectedOtb" class="form-control">
+                                    <select id="otbSelect" name="selectedOtb" class="form-control form-control-lg">
                                         <option value="">Seleccione un OTB</option>
                                         @foreach (var otb in Model.Otbs)
                                         {
@@ -46,7 +46,7 @@
                                         }
                                     </select>
                                 </div>
-                                <button type="submit" class="btn btn-primary btn-block">Enviar</button>
+                                <button type="submit" class="btn btn-primary btn-block btn-lg">Enviar</button>
                             </form>
                         </div>
                     </div>

@@ -3,55 +3,61 @@
 @{
     Layout = "_Layout"; // Esto ya incluye el <head>
 }
+<div class="tittle-calendar">
+    <div class="d-flex justify-content-center align-items-center" ">
+        <h1 class="text-center display-4">Calendario de Entregas de Agua para @Model.NombreOTB</h1>
+    </div>
+</div>
 
-<h1>Calendario de Entregas de Agua para @Model.NombreOTB</h1>
 
-<table class="table table-bordered">
-    <thead>
-        <tr>
-            <th>Franja Horaria</th>
-            @foreach (var day in new[] { "Domingo", "Lunes", "Martes", "Miercoles", "Jueves", "Viernes", "Sabado" })
-            {
-                <th>@day</th>
-            }
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Mañana</td>
-            @foreach (var day in new[] { "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" })
-            {
-                <td>
-                    @foreach (var evnt in Model.CalendarEvents.Where(e => e.DayOfWeek == day && e.TimeSlot == "Mañana"))
-                    {
-                <div>@evnt.Title (@evnt.Start.ToShortTimeString())</div>
-                    }
-            </td>
-}
-        </tr>
-        <tr>
-            <td>Tarde</td>
-            @foreach (var day in new[] { "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" })
-{
-            <td>
-                @foreach (var evnt in Model.CalendarEvents.Where(e => e.DayOfWeek == day && e.TimeSlot == "Tarde"))
-                    {
-                <div>@evnt.Title (@evnt.Start.ToShortTimeString())</div>
-    }
-            </td>
-}
-        </tr>
-        <tr>
-            <td>Noche</td>
-            @foreach (var day in new[] { "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" })
-{
-            <td>
-                @foreach (var evnt in Model.CalendarEvents.Where(e => e.DayOfWeek == day && e.TimeSlot == "Noche"))
-                    {
-                <div>@evnt.Title (@evnt.Start.ToShortTimeString())</div>
-    }
-            </td>
-}
-        </tr>
-    </tbody>
-</table>
+<div class="table-responsive">
+    <table class="table table-bordered table-hover table-sm">
+        <thead>
+            <tr>
+                <th>Franja Horaria</th>
+                @foreach (var day in new[] { "Domingo", "Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado" })
+                {
+                    <th>@day</th>
+                }
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Mañana</td>
+                @foreach (var day in new[] { "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" })
+                {
+                    <td>
+                        @foreach (var evnt in Model.CalendarEvents.Where(e => e.DayOfWeek == day && e.TimeSlot == "Mañana"))
+                        {
+                            <div>@evnt.Title (@evnt.Start.ToShortTimeString())</div>
+                        }
+                    </td>
+                }
+            </tr>
+            <tr>
+                <td>Tarde</td>
+                @foreach (var day in new[] { "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" })
+                {
+                    <td>
+                        @foreach (var evnt in Model.CalendarEvents.Where(e => e.DayOfWeek == day && e.TimeSlot == "Tarde"))
+                        {
+                            <div>@evnt.Title (@evnt.Start.ToShortTimeString())</div>
+                        }
+                    </td>
+                }
+            </tr>
+            <tr>
+                <td>Noche</td>
+                @foreach (var day in new[] { "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" })
+                {
+                    <td>
+                        @foreach (var evnt in Model.CalendarEvents.Where(e => e.DayOfWeek == day && e.TimeSlot == "Noche"))
+                        {
+                            <div>@evnt.Title (@evnt.Start.ToShortTimeString())</div>
+                        }
+                    </td>
+                }
+            </tr>
+        </tbody>
+    </table>
+</div>

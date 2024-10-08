@@ -1,291 +1,280 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\",
+  "WorkspaceRootPath": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CisternasGAMC/True/SqlTable/dbo.Otbs.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\citizen\\cisterncalendar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\citizen\\cisterncalendar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\citizen\\cisterncalendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\citizen\\cisterncalendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\citizen\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\citizen\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\citizen\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\wwwroot\\js\\calendar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:wwwroot\\js\\calendar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\citizen\\cisterncalendar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\citizen\\cisterncalendar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\usercrud\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\usercrud\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\usercrud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\usercrud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\model\\waterdelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:model\\waterdelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\otbcrud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\otbcrud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\waterdeliverycrud\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\waterdeliverycrud\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\waterdeliverycrud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\waterdeliverycrud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\waterdeliverycrud\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\waterdeliverycrud\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\waterdeliverycrud\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\waterdeliverycrud\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\waterdeliverycrud\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\waterdeliverycrud\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\waterdeliverycrud\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\waterdeliverycrud\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\waterdeliverycrud\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\waterdeliverycrud\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\waterdeliverycrud\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\waterdeliverycrud\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\waterdeliverycrud\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\waterdeliverycrud\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\waterdeliverycrud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\waterdeliverycrud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\citizen\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\citizen\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\wwwroot\\js\\distritos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\wwwroot\\js\\distritos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:wwwroot\\js\\distritos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\wwwroot\\css\\calendar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\citizen\\cisterncalendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\citizen\\cisterncalendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\citizen\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\citizen\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\usercrud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\usercrud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\wwwroot\\css\\calendar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:wwwroot\\css\\calendar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\model\\waterdelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:model\\waterdelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\otbcrud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\otbcrud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\waterdeliverycrud\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\waterdeliverycrud\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\waterdeliverycrud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\waterdeliverycrud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\waterdeliverycrud\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\waterdeliverycrud\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\waterdeliverycrud\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\waterdeliverycrud\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\waterdeliverycrud\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\waterdeliverycrud\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\waterdeliverycrud\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\waterdeliverycrud\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\waterdeliverycrud\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\waterdeliverycrud\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\waterdeliverycrud\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\waterdeliverycrud\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\waterdeliverycrud\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\waterdeliverycrud\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\waterdeliverycrud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\waterdeliverycrud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CisternasGAMC/True/SqlTable/dbo.WaterDeliveries.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\model\\otb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\model\\otb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:model\\otb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\model\\cistern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\model\\cistern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:model\\cistern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\shared\\_layoutadmin.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\shared\\_layoutadmin.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\shared\\_layoutadmin.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\prueba.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\prueba.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\prueba.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\prueba.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\prueba.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\prueba.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\cisterncrud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\cisterncrud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\cisterncrud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\cisterncrud\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\cisterncrud\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\cisterncrud\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\usercrud\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\usercrud\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\usercrud\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\usercrud\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\usercrud\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\usercrud\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\usercrud\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\usercrud\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\usercrud\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\usercrud\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\usercrud\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\usercrud\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\usercrud\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\usercrud\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\usercrud\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\usercrud\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\usercrud\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\usercrud\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\usercrud\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\usercrud\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\usercrud\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\usercrud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\usercrud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\usercrud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\otbcrud\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\otbcrud\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\otbcrud\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\otbcrud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\otbcrud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\otbcrud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\otbcrud\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\otbcrud\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\otbcrud\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\otbcrud\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\otbcrud\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\otbcrud\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\otbcrud\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\otbcrud\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\otbcrud\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\otbcrud\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\otbcrud\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\otbcrud\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\otbcrud\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\otbcrud\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\otbcrud\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\otbcrud\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\otbcrud\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\otbcrud\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\otbcrud\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\otbcrud\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\otbcrud\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\cisterncrud\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\cisterncrud\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\cisterncrud\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\cisterncrud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\cisterncrud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\cisterncrud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\cisterncrud\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\cisterncrud\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\cisterncrud\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\cisterncrud\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\cisterncrud\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\cisterncrud\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\cisterncrud\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\cisterncrud\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\cisterncrud\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\cisterncrud\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\cisterncrud\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\cisterncrud\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\cisterncrud\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\cisterncrud\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\cisterncrud\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\pages\\admin\\cruds\\cisterncrud\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\pages\\admin\\cruds\\cisterncrud\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\cisterncrud\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\cisternasgamc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\cisternasgamc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:cisternasgamc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\downloads\\cisternasgamc\\cisternasgamc\\migrations\\20241007230717_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\manueldavidmonegrova\\universidad\\proyectosistemas\\gamg-cisternas\\cisternasgamc\\migrations\\20241007230717_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:migrations\\20241007230717_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -296,98 +285,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 385,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CisternCalendar.cshtml",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Citizen\\CisternCalendar.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Citizen\\CisternCalendar.cshtml",
               "RelativeDocumentMoniker": "Pages\\Citizen\\CisternCalendar.cshtml",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Citizen\\CisternCalendar.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Citizen\\CisternCalendar.cshtml",
               "RelativeToolTip": "Pages\\Citizen\\CisternCalendar.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-05T22:09:35.124Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "dbo.Otbs [Datos]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CisternasGAMC/True/SqlTable/dbo.Otbs.sql",
-              "ToolTip": "dbo.Otbs [Datos]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-08T08:33:06.401Z",
+              "WhenOpened": "2024-10-05T22:09:35.124Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CisternCalendar.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Citizen\\CisternCalendar.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Citizen\\CisternCalendar.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Citizen\\CisternCalendar.cshtml.cs",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Citizen\\CisternCalendar.cshtml.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Citizen\\CisternCalendar.cshtml.cs",
               "RelativeToolTip": "Pages\\Citizen\\CisternCalendar.cshtml.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAqwBcAAAAJAAAA",
+              "ViewState": "AQIAADsAAAAAAAAAAAAuwBcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-05T22:10:07.559Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\UserCrud\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Index.cshtml.cs",
-              "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Index.cshtml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:54:35.626Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Calendar.js",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\wwwroot\\js\\Calendar.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\Calendar.js",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\wwwroot\\js\\Calendar.js",
-              "RelativeToolTip": "wwwroot\\js\\Calendar.js",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-06T00:38:13.396Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Citizen\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Citizen\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Citizen\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Citizen\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Citizen\\Index.cshtml",
               "RelativeToolTip": "Pages\\Citizen\\Index.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAABsAAAA5AAAAAAAAAA==",
+              "ViewState": "AQIAACcAAAAAAAAAAAAwwDcAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-05T02:24:35.022Z"
+              "WhenOpened": "2024-10-05T02:24:35.022Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\UserCrud\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Index.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Index.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T22:54:35.551Z"
+              "WhenOpened": "2024-10-04T22:54:35.551Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "WaterDelivery.cs",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Model\\WaterDelivery.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Model\\WaterDelivery.cs",
               "RelativeDocumentMoniker": "Model\\WaterDelivery.cs",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Model\\WaterDelivery.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Model\\WaterDelivery.cs",
               "RelativeToolTip": "Model\\WaterDelivery.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -397,9 +355,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\OtbCrud\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Create.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\OtbCrud\\Create.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -409,9 +367,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Details.cshtml.cs",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Details.cshtml.cs",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Details.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -421,9 +379,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Delete.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Delete.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -433,9 +391,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Delete.cshtml.cs",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Delete.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -445,9 +403,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Index.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -457,9 +415,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Index.cshtml.cs",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Index.cshtml.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -469,9 +427,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Details.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Details.cshtml",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Details.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -481,9 +439,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Edit.cshtml.cs",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Edit.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -493,9 +451,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Edit.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Edit.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -505,9 +463,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Create.cshtml.cs",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Create.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -517,9 +475,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Create.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -527,11 +485,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 68,
               "Title": "20241007230717_first.cs",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Migrations\\20241007230717_first.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Migrations\\20241007230717_first.cs",
               "RelativeDocumentMoniker": "Migrations\\20241007230717_first.cs",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Migrations\\20241007230717_first.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Migrations\\20241007230717_first.cs",
               "RelativeToolTip": "Migrations\\20241007230717_first.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -539,31 +497,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Citizen\\Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Citizen\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Citizen\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Citizen\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Citizen\\Index.cshtml.cs",
               "RelativeToolTip": "Pages\\Citizen\\Index.cshtml.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAwwCsAAAAMAAAAAAAAAA==",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAwC0AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T02:27:43.904Z"
+              "WhenOpened": "2024-10-05T02:27:43.904Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 6,
               "Title": "Calendar.css",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\wwwroot\\css\\Calendar.css",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\wwwroot\\css\\Calendar.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\Calendar.css",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\wwwroot\\css\\Calendar.css",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\wwwroot\\css\\Calendar.css",
               "RelativeToolTip": "wwwroot\\css\\Calendar.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-06T00:33:10.587Z"
+              "WhenOpened": "2024-10-06T00:33:10.587Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 19,
               "Title": "dbo.WaterDeliveries.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CisternasGAMC/True/SqlTable/dbo.WaterDeliveries.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CisternasGAMC/True/SqlTable/dbo.WaterDeliveries.sql",
@@ -572,23 +532,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 2,
               "Title": "distritos.js",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\wwwroot\\js\\distritos.js",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\wwwroot\\js\\distritos.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\distritos.js",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\wwwroot\\js\\distritos.js",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\wwwroot\\js\\distritos.js",
               "RelativeToolTip": "wwwroot\\js\\distritos.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwBsAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-05T21:50:09.835Z"
+              "WhenOpened": "2024-10-05T21:50:09.835Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 25,
               "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Shared\\_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Shared\\_Layout.cshtml.css",
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -596,11 +557,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 33,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Index.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -608,11 +569,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 28,
               "Title": "_LayoutAdmin.cshtml",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Shared\\_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Shared\\_LayoutAdmin.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_LayoutAdmin.cshtml",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Shared\\_LayoutAdmin.cshtml",
               "RelativeToolTip": "Pages\\Shared\\_LayoutAdmin.cshtml",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -620,11 +581,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 29,
               "Title": "_LayoutAdmin.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Shared\\_LayoutAdmin.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Shared\\_LayoutAdmin.cshtml.css",
               "RelativeDocumentMoniker": "Pages\\Shared\\_LayoutAdmin.cshtml.css",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Shared\\_LayoutAdmin.cshtml.css",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Shared\\_LayoutAdmin.cshtml.css",
               "RelativeToolTip": "Pages\\Shared\\_LayoutAdmin.cshtml.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -632,11 +593,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 21,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwBwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -644,11 +605,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 31,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\_ViewStart.cshtml",
               "RelativeToolTip": "Pages\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -656,11 +617,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 32,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\_ViewImports.cshtml",
               "RelativeToolTip": "Pages\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -668,11 +629,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Program.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAwwA8AAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -680,11 +641,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 30,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Index.cshtml",
               "RelativeToolTip": "Pages\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -692,11 +653,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 42,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Details.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\UserCrud\\Details.cshtml",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Details.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -704,11 +665,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 37,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\CisternCrud\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Create.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\CisternCrud\\Create.cshtml",
               "ViewState": "AQIAABsAAAAAAAAAAAAAAA0AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -716,11 +677,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 36,
               "Title": "prueba.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\prueba.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\prueba.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\prueba.cshtml.cs",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\prueba.cshtml.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\prueba.cshtml.cs",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\prueba.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -728,11 +689,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 34,
               "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeToolTip": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -740,11 +701,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 41,
               "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\UserCrud\\Details.cshtml.cs",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Details.cshtml.cs",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Details.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -752,11 +713,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 27,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\appsettings.json",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -764,11 +725,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 35,
               "Title": "prueba.cshtml",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\prueba.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\prueba.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\prueba.cshtml",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\prueba.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\prueba.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\prueba.cshtml",
               "ViewState": "AQIAADQDAAAAAAAAAAAUwEwDAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -776,11 +737,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 40,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Delete.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\UserCrud\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Delete.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -788,11 +749,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 38,
               "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\CisternCrud\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Create.cshtml.cs",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\CisternCrud\\Create.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -800,11 +761,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 39,
               "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\UserCrud\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Delete.cshtml.cs",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Delete.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -812,11 +773,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 43,
               "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\UserCrud\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Edit.cshtml.cs",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Edit.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -824,11 +785,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 44,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Edit.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\UserCrud\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Edit.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -836,11 +797,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 45,
               "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\UserCrud\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Create.cshtml.cs",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Create.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -848,11 +809,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 46,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\UserCrud\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Create.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -860,11 +821,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 47,
               "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\OtbCrud\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Index.cshtml.cs",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\OtbCrud\\Index.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -872,11 +833,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 48,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\OtbCrud\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Index.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\OtbCrud\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -884,11 +845,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 49,
               "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\OtbCrud\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Delete.cshtml.cs",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\OtbCrud\\Delete.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -896,11 +857,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 50,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Delete.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\OtbCrud\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Delete.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\OtbCrud\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -908,11 +869,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 51,
               "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\OtbCrud\\Details.cshtml.cs",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Details.cshtml.cs",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\OtbCrud\\Details.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -920,11 +881,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 52,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Details.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\OtbCrud\\Details.cshtml",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Details.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\OtbCrud\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -932,11 +893,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 53,
               "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\OtbCrud\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Edit.cshtml.cs",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\OtbCrud\\Edit.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -944,11 +905,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 54,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Edit.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\OtbCrud\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Edit.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\OtbCrud\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -956,11 +917,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 55,
               "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\OtbCrud\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Create.cshtml.cs",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\OtbCrud\\Create.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -968,11 +929,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 56,
               "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\CisternCrud\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Index.cshtml.cs",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\CisternCrud\\Index.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -980,11 +941,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 57,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\CisternCrud\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Index.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\CisternCrud\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -992,11 +953,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 58,
               "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\CisternCrud\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Delete.cshtml.cs",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\CisternCrud\\Delete.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1004,11 +965,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 59,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Delete.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\CisternCrud\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Delete.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\CisternCrud\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -1016,11 +977,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 60,
               "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\CisternCrud\\Details.cshtml.cs",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Details.cshtml.cs",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\CisternCrud\\Details.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1028,11 +989,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 61,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Details.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\CisternCrud\\Details.cshtml",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Details.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\CisternCrud\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -1040,11 +1001,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 62,
               "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\CisternCrud\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Edit.cshtml.cs",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\CisternCrud\\Edit.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1052,11 +1013,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 63,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Edit.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\CisternCrud\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Edit.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Cruds\\CisternCrud\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -1064,11 +1025,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 20,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1076,11 +1037,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 23,
               "Title": "Cistern.cs",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Model\\Cistern.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Model\\Cistern.cs",
               "RelativeDocumentMoniker": "Model\\Cistern.cs",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Model\\Cistern.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Model\\Cistern.cs",
               "RelativeToolTip": "Model\\Cistern.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1088,11 +1049,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 22,
               "Title": "Otb.cs",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Model\\Otb.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Model\\Otb.cs",
               "RelativeDocumentMoniker": "Model\\Otb.cs",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Model\\Otb.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Model\\Otb.cs",
               "RelativeToolTip": "Model\\Otb.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAgwA4AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1100,11 +1061,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 24,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Model\\User.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Model\\User.cs",
               "RelativeDocumentMoniker": "Model\\User.cs",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\Model\\User.cs",
               "RelativeToolTip": "Model\\User.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAgwC8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1112,11 +1073,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 64,
               "Title": "bootstrap.js",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
               "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
               "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
               "ViewState": "AQIAAFcAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -1124,22 +1085,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 65,
               "Title": "CisternasGAMC",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\CisternasGAMC.csproj",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\CisternasGAMC.csproj",
               "RelativeDocumentMoniker": "CisternasGAMC.csproj",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\CisternasGAMC.csproj",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\CisternasGAMC.csproj",
               "RelativeToolTip": "CisternasGAMC.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-10-04T22:17:13.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 66,
               "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\wwwroot\\js\\site.js",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\wwwroot\\js\\site.js",
               "RelativeToolTip": "wwwroot\\js\\site.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -1147,11 +1108,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 67,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
