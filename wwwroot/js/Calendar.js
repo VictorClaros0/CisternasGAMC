@@ -2,6 +2,7 @@
     var calendarEl = document.getElementById('calendar');
     var calendar = new FullCalendar.Calendar(calendarEl, {
         initialView: 'timeGridWeek',
+        
         headerToolbar: {
             left: '',
             center: 'title',

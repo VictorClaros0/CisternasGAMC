@@ -35,16 +35,15 @@ namespace CisternasGAMC.Pages.Citizen
 
         public void OnGet()
         {
-            // Obtener los datos de la OTB a partir del SelectedOtb
             var otbData = _context.Otbs.FirstOrDefault(o => o.OtbId == SelectedOtb);
             if (otbData != null)
             {
-                NombreOTB = otbData.Name;
+                NombreOTB = "Villa Cuchillo";
                 NumeroDistrito = otbData.District;
             }
 
             // Obtener las entregas de agua
-            var waterDeliveries = GetWaterDeliveries();
+            List<WaterDelivery> waterDeliveries = GetWaterDeliveries();
 
             // Transformar las entregas en eventos del calendario
             CalendarEvents = waterDeliveries.Select(w => new CalendarEvent
@@ -52,8 +51,20 @@ namespace CisternasGAMC.Pages.Citizen
                 Title = $"Entrega de Agua: {w.DeliveredAmount} L",
                 Start = w.DeliveryDate.Date.AddHours(8), // Asignar la hora 8 AM
                 End = w.DeliveryDate.Date.AddHours(9),   // Duración de 1 hora
-                DayOfWeek = w.DeliveryDate.DayOfWeek.ToString() // Obtener el día de la semana
+                DayOfWeek = w.DeliveryDate.DayOfWeek.ToString(),
+                TimeSlot = GetTimeSlot(w.DeliveryDate.Hour) // Asignar la franja horaria
             }).ToList();
+        }
+
+        // Método para determinar la franja horaria
+        private string GetTimeSlot(int hour)
+        {
+            if (hour >= 6 && hour < 12)
+                return "Mañana";
+            else if (hour >= 12 && hour < 18)
+                return "Tarde";
+            else
+                return "Noche";
         }
 
         public class CalendarEvent
@@ -61,7 +72,8 @@ namespace CisternasGAMC.Pages.Citizen
             public string Title { get; set; }
             public DateTime Start { get; set; }
             public DateTime End { get; set; }
-            public string DayOfWeek { get; set; } // Propiedad adicional para el día de la semana
+            public string DayOfWeek { get; set; } // Día de la semana
+            public string TimeSlot { get; set; } // Nueva propiedad para definir la franja horaria
         }
     }
 }

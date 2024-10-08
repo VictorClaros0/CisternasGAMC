@@ -7723,11 +7723,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\CisternasGAMC.csproj",
+      "projectUniqueName": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\CisternasGAMC.csproj",
       "projectName": "CisternasGAMC",
-      "projectPath": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\CisternasGAMC.csproj",
+      "projectPath": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\CisternasGAMC.csproj",
       "packagesPath": "C:\\Users\\ManuelDavidMonegroVa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\obj\\",
+      "outputPath": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ManuelDavidMonegroVa\\AppData\\Roaming\\NuGet\\NuGet.Config",

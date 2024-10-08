@@ -4,25 +4,54 @@
     Layout = "_Layout"; // Esto ya incluye el <head>
 }
 
-<body class="hold-transition sidebar-mini">
+<h1>Calendario de Entregas de Agua para @Model.NombreOTB</h1>
 
-    <div class="wrapper">
-        <div class="content">
-            <section class="content">
-                <div class="container-fluid">
-                    <h1 class="calendar-title">
-                        @(Model.NombreOTB) Distrito: @(Model.NumeroDistrito)
-                    </h1>
-
-                    <!-- Contenedor del calendario -->
-                    <div id="calendar"></div>
-
-                </div>
-            </section>
-        </div>
-    </div>
-
-    <!-- Incluye el archivo JavaScript -->
-    <script src="~/js/Calendar.js"></script> <!-- Asegúrate de que la ruta sea correcta -->
-
-</body>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Franja Horaria</th>
+            @foreach (var day in new[] { "Domingo", "Lunes", "Martes", "Miercoles", "Jueves", "Viernes", "Sabado" })
+            {
+                <th>@day</th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Mañana</td>
+            @foreach (var day in new[] { "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" })
+            {
+                <td>
+                    @foreach (var evnt in Model.CalendarEvents.Where(e => e.DayOfWeek == day && e.TimeSlot == "Mañana"))
+                    {
+                <div>@evnt.Title (@evnt.Start.ToShortTimeString())</div>
+                    }
+            </td>
+}
+        </tr>
+        <tr>
+            <td>Tarde</td>
+            @foreach (var day in new[] { "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" })
+{
+            <td>
+                @foreach (var evnt in Model.CalendarEvents.Where(e => e.DayOfWeek == day && e.TimeSlot == "Tarde"))
+                    {
+                <div>@evnt.Title (@evnt.Start.ToShortTimeString())</div>
+    }
+            </td>
+}
+        </tr>
+        <tr>
+            <td>Noche</td>
+            @foreach (var day in new[] { "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" })
+{
+            <td>
+                @foreach (var evnt in Model.CalendarEvents.Where(e => e.DayOfWeek == day && e.TimeSlot == "Noche"))
+                    {
+                <div>@evnt.Title (@evnt.Start.ToShortTimeString())</div>
+    }
+            </td>
+}
+        </tr>
+    </tbody>
+</table>

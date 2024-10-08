@@ -1,0 +1,70 @@
+﻿@page
+@model CisternasGAMC.Pages.Admin.Cruds.WaterDeliveryCrud.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>WaterDelivery</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="WaterDelivery.WaterDeliveryId" />
+            <div class="form-group">
+                <label asp-for="WaterDelivery.CisternId" class="control-label"></label>
+                <input asp-for="WaterDelivery.CisternId" class="form-control" />
+                <span asp-validation-for="WaterDelivery.CisternId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="WaterDelivery.DriverId" class="control-label"></label>
+                <input asp-for="WaterDelivery.DriverId" class="form-control" />
+                <span asp-validation-for="WaterDelivery.DriverId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="WaterDelivery.OtbId" class="control-label"></label>
+                <input asp-for="WaterDelivery.OtbId" class="form-control" />
+                <span asp-validation-for="WaterDelivery.OtbId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="WaterDelivery.DeliveryDate" class="control-label"></label>
+                <input asp-for="WaterDelivery.DeliveryDate" class="form-control" />
+                <span asp-validation-for="WaterDelivery.DeliveryDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="WaterDelivery.DeliveredAmount" class="control-label"></label>
+                <input asp-for="WaterDelivery.DeliveredAmount" class="form-control" />
+                <span asp-validation-for="WaterDelivery.DeliveredAmount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="WaterDelivery.DeliveryStatus" class="control-label"></label>
+                <input asp-for="WaterDelivery.DeliveryStatus" class="form-control" />
+                <span asp-validation-for="WaterDelivery.DeliveryStatus" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="WaterDelivery.ArrivalDate" class="control-label"></label>
+                <input asp-for="WaterDelivery.ArrivalDate" class="form-control" />
+                <span asp-validation-for="WaterDelivery.ArrivalDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="WaterDelivery.DepartureDate" class="control-label"></label>
+                <input asp-for="WaterDelivery.DepartureDate" class="form-control" />
+                <span asp-validation-for="WaterDelivery.DepartureDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

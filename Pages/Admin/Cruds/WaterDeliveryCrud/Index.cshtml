@@ -1,0 +1,78 @@
+﻿@page
+@model CisternasGAMC.Pages.Admin.Cruds.WaterDeliveryCrud.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.WaterDelivery[0].CisternId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WaterDelivery[0].DriverId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WaterDelivery[0].OtbId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WaterDelivery[0].DeliveryDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WaterDelivery[0].DeliveredAmount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WaterDelivery[0].DeliveryStatus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WaterDelivery[0].ArrivalDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WaterDelivery[0].DepartureDate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.WaterDelivery) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CisternId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DriverId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OtbId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DeliveryDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DeliveredAmount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DeliveryStatus)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ArrivalDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DepartureDate)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.WaterDeliveryId">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.WaterDeliveryId">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.WaterDeliveryId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

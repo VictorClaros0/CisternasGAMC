@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8MM4ZIKooLM=",
+  "dgSpecHash": "Ls3iD+TWDxY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoSistemas\\GAMG-Cisternas\\CisternasGAMC\\CisternasGAMC.csproj",
+  "projectFilePath": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\CisternasGAMC\\CisternasGAMC\\CisternasGAMC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ManuelDavidMonegroVa\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ManuelDavidMonegroVa\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
