@@ -1,0 +1,70 @@
+﻿@page
+@model CisternasGAMC.Pages.Driver.IndexModel
+@{
+    Layout = "_Layout";
+}
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Entrega OTB</title>
+    <link rel="stylesheet" href="~/css/driverStyle.css" />
+</head>
+
+<body>
+    <div class="container">
+
+        <div class="form-section">
+            <h2>OTB</h2>
+            <select id="otb">
+                <option value="Otbs">
+                    @foreach (var otb in @Model.otbs)
+                    {
+                    <option value="@otb.OtbId">@otb.Name</option>
+                    }
+                </option>
+            </select>
+
+            <div class="toggle-section">
+                <label for="toggleSwitch">Me encuentro en la OTB</label>
+                <div class="switch">
+                    <input type="checkbox" id="toggleSwitch" />
+                    <label class="slider" for="toggleSwitch"></label>
+                </div>
+            </div>
+
+            <button class="btn btn-primary">Generar Entrega</button>
+        </div>
+
+        <div class="list-section">
+            <h2>Lista de Entregas</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Persona/Familia</th>
+                        <th>Cantidad de Turriles</th>
+                        <th>Monto Pagado</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Familia Perez</td>
+                        <td>2 turriles</td>
+                        <td>7 Bolivianos</td>
+                    </tr>
+                    <tr>
+                        <td>Martin Ramirez</td>
+                        <td>3 turriles</td>
+                        <td>10,5 Bolivianos</td>
+                    </tr>
+                    <tr>
+                        <td>Carlita Suarez</td>
+                        <td>1 turriles</td>
+                        <td>3,5 Bolivianos</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+</html>

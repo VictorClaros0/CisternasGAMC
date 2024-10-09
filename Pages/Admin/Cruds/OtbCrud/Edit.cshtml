@@ -1,0 +1,50 @@
+﻿@page
+@model CisternasGAMC.Pages.Admin.Cruds.OtbCrud.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Otb</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Otb.OtbId" />
+            <div class="form-group">
+                <label asp-for="Otb.Name" class="control-label"></label>
+                <input asp-for="Otb.Name" class="form-control" />
+                <span asp-validation-for="Otb.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Otb.FamilyCount" class="control-label"></label>
+                <input asp-for="Otb.FamilyCount" class="form-control" />
+                <span asp-validation-for="Otb.FamilyCount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Otb.District" class="control-label"></label>
+                <input asp-for="Otb.District" class="form-control" />
+                <span asp-validation-for="Otb.District" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Otb.LastUpdate" class="control-label"></label>
+                <input asp-for="Otb.LastUpdate" class="form-control" />
+                <span asp-validation-for="Otb.LastUpdate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

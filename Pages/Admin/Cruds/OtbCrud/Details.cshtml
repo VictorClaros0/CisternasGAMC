@@ -1,0 +1,43 @@
+﻿@page
+@model CisternasGAMC.Pages.Admin.Cruds.OtbCrud.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Otb</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Otb.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Otb.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Otb.FamilyCount)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Otb.FamilyCount)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Otb.District)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Otb.District)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Otb.LastUpdate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Otb.LastUpdate)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Otb.OtbId">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

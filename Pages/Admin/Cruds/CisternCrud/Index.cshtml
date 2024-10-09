@@ -1,0 +1,60 @@
+﻿@page
+@model CisternasGAMC.Pages.Admin.Cruds.CisternCrud.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Cistern[0].Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cistern[0].PlateNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cistern[0].Capacity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cistern[0].RegisterDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cistern[0].LastUpdate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Cistern) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PlateNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Capacity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RegisterDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastUpdate)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.CisternId">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.CisternId">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.CisternId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
