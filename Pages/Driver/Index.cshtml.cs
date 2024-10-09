@@ -14,10 +14,11 @@ namespace CisternasGAMC.Pages.Driver
         {
             _context = context;
         }
+        public IList<WaterDelivery> waterDeliveries { get; set; } = default!;
         public IList<Otb> otbs { get; set; } = default!;
         public async Task OnGetAsync()
         {
-            otbs = await _context.Otbs.ToListAsync();
+            waterDeliveries = await _context.WaterDeliveries.ToListAsync();
         }
 
     }

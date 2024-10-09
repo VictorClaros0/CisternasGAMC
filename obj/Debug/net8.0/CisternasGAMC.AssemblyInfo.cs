@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CisternasGAMC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33b5cdf3cbd309a50623cd336c3cbef3863dc190")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CisternasGAMC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CisternasGAMC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

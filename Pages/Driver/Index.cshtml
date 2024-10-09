@@ -8,63 +8,68 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Entrega OTB</title>
-    <link rel="stylesheet" href="~/css/driverStyle.css" />
+    <link rel="stylesheet" href="~/css/driverStyle2.css" />
+    <link rel="stylesheet" href="~/css/modalStyle.css" /> <!-- Enlaza el archivo CSS del modal -->
 </head>
 
 <body>
     <div class="container">
-
         <div class="form-section">
             <h2>OTB</h2>
-            <select id="otb">
-                <option value="Otbs">
-                    @foreach (var otb in @Model.otbs)
-                    {
-                    <option value="@otb.OtbId">@otb.Name</option>
-                    }
-                </option>
-            </select>
 
             <div class="toggle-section">
                 <label for="toggleSwitch">Me encuentro en la OTB</label>
-                <div class="switch">
-                    <input type="checkbox" id="toggleSwitch" />
-                    <label class="slider" for="toggleSwitch"></label>
-                </div>
+                <label class="switch">
+                    <input type="checkbox" id="toggleSwitch">
+                    <span class="slider"></span>
+                </label>
             </div>
 
-            <button class="btn btn-primary">Generar Entrega</button>
-        </div>
-
-        <div class="list-section">
-            <h2>Lista de Entregas</h2>
-            <table>
-                <thead>
-                    <tr>
-                        <th>Persona/Familia</th>
-                        <th>Cantidad de Turriles</th>
-                        <th>Monto Pagado</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>Familia Perez</td>
-                        <td>2 turriles</td>
-                        <td>7 Bolivianos</td>
-                    </tr>
-                    <tr>
-                        <td>Martin Ramirez</td>
-                        <td>3 turriles</td>
-                        <td>10,5 Bolivianos</td>
-                    </tr>
-                    <tr>
-                        <td>Carlita Suarez</td>
-                        <td>1 turriles</td>
-                        <td>3,5 Bolivianos</td>
-                    </tr>
-                </tbody>
-            </table>
+            <button id="openModalBtn" class="btn btn-primary">Generar Entrega</button>
         </div>
     </div>
+
+    <div id="openModal" class="modalDialog">
+        <div>
+            <a href="#close" title="Close" class="close">X</a>
+            <h2 class="modal-title">Confirmar Entrega</h2>
+            <div class="form-group">
+                <label for="montoGenerado">Monto generado:</label>
+                <input type="number" id="montoGenerado" name="montoGenerado" step="0.01" min="0" placeholder="0.00" required>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Función para mostrar el modal
+        function showModal() {
+            document.getElementById('openModal').style.display = 'flex'; // Cambiar a 'flex' para centrado
+        }
+
+        // Evento que muestra el modal al desactivar el switch
+        document.getElementById('toggleSwitch').addEventListener('change', function () {
+            if (!this.checked) { // Verifica si el checkbox está desactivado
+                showModal();
+            }
+        });
+
+        // Cerrar el modal al hacer clic en el botón de cerrar
+        document.querySelector('.close').onclick = function () {
+            document.getElementById('openModal').style.display = 'none'; // Ocultar el modal
+        };
+
+        // Cerrar el modal al hacer clic en el botón de cancelar
+        document.getElementById('cancelBtn').onclick = function () {
+            document.getElementById('openModal').style.display = 'none'; // Ocultar el modal
+            document.getElementById('toggleSwitch').checked = true; // Volver a activar el switch
+        };
+
+        // Lógica para el botón de confirmar
+        document.getElementById('confirmBtn').onclick = function () {
+            // Aquí va la lógica que desees implementar al confirmar la entrega
+            alert('Entrega generada.');
+            document.getElementById('openModal').style.display = 'none'; // Cerrar el modal
+        };
+    </script>
 </body>
 </html>

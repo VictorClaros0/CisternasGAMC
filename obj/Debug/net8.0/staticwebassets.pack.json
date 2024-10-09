@@ -121,6 +121,14 @@
       "PackagePath": "staticwebassets\\css\\driverStyle.css"
     },
     {
+      "Id": "C:\\Users\\Sebastian\\source\\repos\\CisternasGAMC-Cisterneros\\wwwroot\\css\\driverStyle2.css",
+      "PackagePath": "staticwebassets\\css\\driverStyle2.css"
+    },
+    {
+      "Id": "C:\\Users\\Sebastian\\source\\repos\\CisternasGAMC-Cisterneros\\wwwroot\\css\\modalStyle.css",
+      "PackagePath": "staticwebassets\\css\\modalStyle.css"
+    },
+    {
       "Id": "C:\\Users\\Sebastian\\source\\repos\\CisternasGAMC-Cisterneros\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
