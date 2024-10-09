@@ -16,6 +16,9 @@ namespace CisternasGAMC.Pages.Citizen
 
         public string NombreOTB { get; set; }
         public byte NumeroDistrito { get; set; }
+        // Propiedad para mostrar el estado de la cisterna
+        public string CisternStatusMessage { get; set; }
+        public bool IsCisternAvailable { get; set; }
 
         // Propiedad para almacenar los eventos del calendario
         public List<CalendarEvent> CalendarEvents { get; set; } = new List<CalendarEvent>(); // Asegúrate de agregar esta propiedad
@@ -35,6 +38,7 @@ namespace CisternasGAMC.Pages.Citizen
 
         public void OnGet()
         {
+            LoadCisternStatus();
             var otbData = _context.Otbs.FirstOrDefault(o => o.OtbId == SelectedOtb);
             if (otbData != null)
             {
@@ -55,7 +59,35 @@ namespace CisternasGAMC.Pages.Citizen
                 TimeSlot = GetTimeSlot(w.DeliveryDate.Hour) // Asignar la franja horaria
             }).ToList();
         }
+        private void LoadCisternStatus()
+        {
+            var cistern = _context.WaterDeliveries.FirstOrDefault();
 
+            if (cistern != null)
+            {
+                // Evaluar el estado de la cisterna basado en su Status
+                if (cistern.DeliveryStatus == 1)
+                {
+                    CisternStatusMessage = "La Cisterna se encuentra en movimiento";
+                    IsCisternAvailable = true;
+                }
+                else if (cistern.DeliveryStatus == 0)
+                {
+                    CisternStatusMessage = "La Cisterna no está en operación";
+                    IsCisternAvailable = false;
+                }
+                else
+                {
+                    CisternStatusMessage = "La Cisterna no se encuentra en servicio";
+                    IsCisternAvailable = false;
+                }
+            }
+            else
+            {
+                CisternStatusMessage = "No se encontró información de la cisterna.";
+                IsCisternAvailable = false;
+            }
+        }
         // Método para determinar la franja horaria
         private string GetTimeSlot(int hour)
         {

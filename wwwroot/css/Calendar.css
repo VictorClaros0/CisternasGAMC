@@ -1,4 +1,18 @@
-﻿/* CSS para hacer que la tabla sea más pequeña y manejable en móviles */
+﻿/* Estilo para las tarjetas */
+.card-custom {
+    border-radius: 15px;
+    padding: 20px;
+}
+.card-title {
+    margin: 0; /* Elimina márgenes extra que podrían estar afectando */
+    text-align: center; /* Asegura que el texto esté centrado */
+}
+/* Estilo para los headers de las tarjetas */
+.header-custom {
+    width: 100%; /* Asegura que el contenedor tome todo el ancho disponible */
+    text-align: center; /* Centra el contenido dentro del div */
+}
+/* Estilos para hacer que la tabla sea más pequeña y manejable en móviles */
 .table-responsive {
     overflow-x: auto; /* Permite el desplazamiento horizontal en pantallas pequeñas */
     margin-top: 15%;
@@ -23,13 +37,16 @@
         text-align: center;
     }
 }
+
+/* Estilo para las filas de la tabla */
 tr {
     display: table-row;
     vertical-align: inherit;
     unicode-bidi: isolate;
     border-color: inherit;
 }
+
+/* Estilo personalizado para el título del calendario */
 .tittle-calendar {
     padding-top: 5%;
 }
-

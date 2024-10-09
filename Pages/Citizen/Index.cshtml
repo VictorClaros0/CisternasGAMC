@@ -10,17 +10,10 @@
             <div class="row">
                 <div class="col-md-6 offset-md-3">
                     <!-- Card con estilo de AdminLTE -->
-                    <div class="card card-primary" style="border-radius: 15px; padding: 20px;">
-                        <div class="card-header" style="border-radius: 15px; padding: 10px;">
-                            <h3 class="card-title">
-                                @if (Model.IsCisternAvailable)
-                                {
-                                    <text>@Model.CisternStatusMessage</text>
-                                }
-                                else
-                                {
-                                    <text>@Model.CisternStatusMessage</text>
-                                }
+                    <div class="card card-primary card-custom">
+                        <div class="card-header header-custom">
+                            <h3 class="card-title text-center">
+                                INFORMATE SOBRE TU OTB
                             </h3>
                         </div>
                         <div class="card-body">
@@ -29,7 +22,6 @@
                                 <div class="form-group">
                                     <label for="distritoSelect">Selecciona tu Distrito</label>
                                     <select class="form-control form-control-lg" id="distritoSelect" name="SelectedDistrito" asp-for="SelectedDistrito">
-                                        <option value="">Seleccione un distrito</option>
                                         @foreach (var distrito in Model.Distritos)
                                         {
                                             <option value="@distrito">@distrito</option>
@@ -39,7 +31,6 @@
                                 <div class="form-group">
                                     <label for="otbSelect">Selecciona un OTB</label>
                                     <select id="otbSelect" name="selectedOtb" class="form-control form-control-lg">
-                                        <option value="">Seleccione un OTB</option>
                                         @foreach (var otb in Model.Otbs)
                                         {
                                             <option value="@otb.OtbId">@otb.Name</option>

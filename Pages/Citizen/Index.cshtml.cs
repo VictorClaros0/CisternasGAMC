@@ -19,9 +19,7 @@ namespace CisternasGAMC.Pages.Citizen
         public IList<Otb> Otbs { get; set; } = new List<Otb>();
         public IList<byte> Distritos { get; set; } = new List<byte>();
 
-        // Propiedad para mostrar el estado de la cisterna
-        public string CisternStatusMessage { get; set; }
-        public bool IsCisternAvailable { get; set; }
+        
 
         // Constructor que recibe el contexto de la base de datos
         public IndexModel(ApplicationDbContext context)
@@ -34,7 +32,6 @@ namespace CisternasGAMC.Pages.Citizen
         {
             // Cargar todos los OTBs y Distritos al cargar la página por primera vez
             LoadDistrictsAndOtbs();
-            LoadCisternStatus();
         }
 
        
@@ -48,35 +45,7 @@ namespace CisternasGAMC.Pages.Citizen
                 .ToList();
         }
 
-        private void LoadCisternStatus()
-        {
-            var cistern = _context.Cisterns.FirstOrDefault();
-
-            if (cistern != null)
-            {
-                // Evaluar el estado de la cisterna basado en su Status
-                if (cistern.Status == 1)
-                {
-                    CisternStatusMessage = "La Cisterna se encuentra en movimiento";
-                    IsCisternAvailable = true;
-                }
-                else if (cistern.Status == 0)
-                {
-                    CisternStatusMessage = "La Cisterna no está en operación";
-                    IsCisternAvailable = false;
-                }
-                else
-                {
-                    CisternStatusMessage = "La Cisterna no se encuentra en servicio";
-                    IsCisternAvailable = false;
-                }
-            }
-            else
-            {
-                CisternStatusMessage = "No se encontró información de la cisterna.";
-                IsCisternAvailable = false;
-            }
-        }
+        
         public JsonResult OnGetOtbs(byte district)
         {
             var filteredOtbs = _context.Otbs
