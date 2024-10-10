@@ -50,3 +50,25 @@ tr {
 .tittle-calendar {
     padding-top: 5%;
 }
+.Text-Information {
+    background-color: #87CEEB; /* Color de fondo azul celeste */
+    border-radius: 15px; /* Esquinas redondeadas */
+    padding: 15px; /* Espacio interno */
+    text-align: center; /* Centrar el texto */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2.2rem;
+    font-weight: 500;
+    margin: 0;
+}
+
+.header-custom {
+    border-radius: 15px; /* Asegúrate que también esté redondeado */
+}
+.delivery-in-progress {
+    background-color: green;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
