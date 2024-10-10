@@ -31,6 +31,18 @@ namespace CisternasGAMC.Pages.Login
         public string FailMessage = "Credenciales incorrectos";
         public bool LoginFailed { get; set; }
 
+        public IActionResult OnGet()
+        {
+            if (User.Identity.IsAuthenticated)
+            {
+                return RedirectToPage("/Index");
+            }
+            else
+            {
+                return Page();
+            }
+        }
+
         public async Task<IActionResult> OnPostAsync()
         {
             var user = await _context.Users.FirstOrDefaultAsync(u => u.Email == Correo);
