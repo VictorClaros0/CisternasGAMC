@@ -1,0 +1,75 @@
+﻿@page
+@model CisternasGAMC.Pages.Driver.IndexModel
+@{
+    Layout = "_Layout";
+}
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Entrega OTB</title>
+    <link rel="stylesheet" href="~/css/driverStyle2.css" />
+    <link rel="stylesheet" href="~/css/modalStyle.css" /> <!-- Enlaza el archivo CSS del modal -->
+</head>
+
+<body>
+    <div class="container">
+        <div class="form-section">
+            <h2>OTB</h2>
+
+            <div class="toggle-section">
+                <label for="toggleSwitch">Me encuentro en la OTB</label>
+                <label class="switch">
+                    <input type="checkbox" id="toggleSwitch">
+                    <span class="slider"></span>
+                </label>
+            </div>
+
+            <button id="openModalBtn" class="btn btn-primary">Generar Entrega</button>
+        </div>
+    </div>
+
+    <div id="openModal" class="modalDialog">
+        <div>
+            <a href="#close" title="Close" class="close">X</a>
+            <h2 class="modal-title">Confirmar Entrega</h2>
+            <div class="form-group">
+                <label for="montoGenerado">Monto generado:</label>
+                <input type="number" id="montoGenerado" name="montoGenerado" step="0.01" min="0" placeholder="0.00" required>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Función para mostrar el modal
+        function showModal() {
+            document.getElementById('openModal').style.display = 'flex'; // Cambiar a 'flex' para centrado
+        }
+
+        // Evento que muestra el modal al desactivar el switch
+        document.getElementById('toggleSwitch').addEventListener('change', function () {
+            if (!this.checked) { // Verifica si el checkbox está desactivado
+                showModal();
+            }
+        });
+
+        // Cerrar el modal al hacer clic en el botón de cerrar
+        document.querySelector('.close').onclick = function () {
+            document.getElementById('openModal').style.display = 'none'; // Ocultar el modal
+        };
+
+        // Cerrar el modal al hacer clic en el botón de cancelar
+        document.getElementById('cancelBtn').onclick = function () {
+            document.getElementById('openModal').style.display = 'none'; // Ocultar el modal
+            document.getElementById('toggleSwitch').checked = true; // Volver a activar el switch
+        };
+
+        // Lógica para el botón de confirmar
+        document.getElementById('confirmBtn').onclick = function () {
+            // Aquí va la lógica que desees implementar al confirmar la entrega
+            alert('Entrega generada.');
+            document.getElementById('openModal').style.display = 'none'; // Cerrar el modal
+        };
+    </script>
+</body>
+</html>
