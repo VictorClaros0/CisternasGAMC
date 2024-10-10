@@ -7,9 +7,11 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using CisternasGAMC.Data;
 using CisternasGAMC.Model;
+using Microsoft.AspNetCore.Authorization;
 
 namespace CisternasGAMC.Pages.Admin.Cruds.CisternCrud
 {
+    [Authorize(Roles = "admin")]
     public class DetailsModel : PageModel
     {
         private readonly CisternasGAMC.Data.ApplicationDbContext _context;

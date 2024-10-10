@@ -107,8 +107,8 @@ namespace CisternasGAMC.Migrations
 
                     b.Property<string>("Password")
                         .IsRequired()
-                        .HasMaxLength(25)
-                        .HasColumnType("nvarchar(25)");
+                        .HasMaxLength(70)
+                        .HasColumnType("nvarchar(70)");
 
                     b.Property<string>("PhoneNumber")
                         .IsRequired()
@@ -118,8 +118,9 @@ namespace CisternasGAMC.Migrations
                     b.Property<DateTime>("RegisterDate")
                         .HasColumnType("date");
 
-                    b.Property<byte>("Role")
-                        .HasColumnType("tinyint");
+                    b.Property<string>("Role")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<byte>("Status")
                         .HasColumnType("tinyint");

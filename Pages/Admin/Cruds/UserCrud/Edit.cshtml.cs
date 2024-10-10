@@ -8,9 +8,11 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using CisternasGAMC.Data;
 using CisternasGAMC.Model;
+using Microsoft.AspNetCore.Authorization;
 
 namespace CisternasGAMC.Pages.Admin.Cruds.UserCrud
 {
+    [Authorize(Roles = "admin")]
     public class EditModel : PageModel
     {
         private readonly CisternasGAMC.Data.ApplicationDbContext _context;

@@ -23,7 +23,7 @@ namespace CisternasGAMC.Model
         [EmailAddress(ErrorMessage = "Formato de correo inválido.")]
         public string Email { get; set; }
 
-        [StringLength(25, ErrorMessage = "Formato incorrecto")]
+        [StringLength(70, ErrorMessage = "Formato incorrecto")]
         [Required(ErrorMessage = "Password es obligatorio.")]
         public string Password { get; set; }
 
@@ -31,7 +31,7 @@ namespace CisternasGAMC.Model
         [Required(ErrorMessage = "Número de teléfono inválido.")]
         public string PhoneNumber { get; set; }
 
-        public byte Role { get; set; }
+        public string Role { get; set; }
 
         [Required]
         [DataType(DataType.Date)]

@@ -1,11 +1,13 @@
 using CisternasGAMC.Data;
 using CisternasGAMC.Model;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 
 namespace CisternasGAMC.Pages.Driver
 {
+    [Authorize(Roles = "driver")]
     public class seleccionViewModel : PageModel
     {
         private readonly ApplicationDbContext _context;

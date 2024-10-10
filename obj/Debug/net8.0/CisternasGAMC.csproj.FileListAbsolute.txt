@@ -1014,3 +1014,4 @@ C:\Users\ManuelDavidMonegroVa\Downloads\CisternasGAMC\CisternasGAMC\obj\Debug\ne
 C:\Users\ManuelDavidMonegroVa\Downloads\CisternasGAMC\CisternasGAMC\obj\Debug\net8.0\CisternasGAMC.pdb
 C:\Users\ManuelDavidMonegroVa\Downloads\CisternasGAMC\CisternasGAMC\obj\Debug\net8.0\CisternasGAMC.genruntimeconfig.cache
 C:\Users\ManuelDavidMonegroVa\Downloads\CisternasGAMC\CisternasGAMC\obj\Debug\net8.0\ref\CisternasGAMC.dll
+D:\CisternasGAMC\bin\Debug\net8.0\BCrypt.Net-Next.dll

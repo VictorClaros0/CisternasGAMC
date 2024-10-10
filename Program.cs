@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using CisternasGAMC.Data;
+using Microsoft.AspNetCore.Authentication.Cookies;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,7 +10,18 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(
         builder.Configuration.GetConnectionString("DefaultConnection") // Usar la cadena de conexión definida en la configuración.
     )
-);
+); 
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultAuthenticateScheme = CookieAuthenticationDefaults.AuthenticationScheme;
+    options.DefaultChallengeScheme = CookieAuthenticationDefaults.AuthenticationScheme;
+})
+.AddCookie(options =>
+{
+    options.Cookie.Name = "UserLoginCookie";
+    options.LoginPath = "/Login";
+    options.AccessDeniedPath = "/AccessDenied";
+});
 
 var app = builder.Build();
 
@@ -27,6 +39,7 @@ app.UseStaticFiles();      // Habilitar el uso de archivos estáticos.
 
 app.UseRouting();          // Habilitar el enrutamiento.
 
+app.UseAuthentication();
 app.UseAuthorization();    // Habilitar la autorización.
 
 app.MapRazorPages();       // Mapear las Razor Pages para que respondan a las solicitudes.
