@@ -1,0 +1,35 @@
+﻿@page
+@model CisternasGAMC.Pages.Driver.seleccionViewModel
+@{
+    Layout = "_Layout";
+}
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Entrega OTB</title>
+    <link rel="stylesheet" href="~/css/driverStyle.css" />
+</head>
+
+<body>
+    <div class="container">
+        <div class="form-section">
+            <h2>OTB</h2>
+            <form method="get" asp-page-handler="Index">
+                <select id="otb" name="waterDeliveryId">
+                    @foreach (var waterDelivery in Model.waterDeliveries)
+                    {
+                        var otb = Model.otbs.FirstOrDefault(o => o.OtbId == waterDelivery.OtbId);
+                        if (otb != null)
+                        {
+                            <option value="@waterDelivery.WaterDeliveryId">@otb.Name</option>
+                        }
+                    }
+                </select>
+
+                <button type="submit" class="btn btn-primary">Seleccionar Entrega</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
