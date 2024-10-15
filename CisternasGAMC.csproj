@@ -18,6 +18,9 @@
   <ItemGroup>
     <Folder Include="Data\" />
     <Folder Include="Migrations\" />
+    <Folder Include="Pages\Admin\Cruds\CisternCrud\" />
+    <Folder Include="Pages\Admin\Cruds\OtbCrud\" />
+    <Folder Include="Pages\Admin\Cruds\UserCrud\" />
     <Folder Include="Pages\Driver\" />
     <Folder Include="Services\" />
   </ItemGroup>
@@ -71,7 +74,7 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.5" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.6" />
   </ItemGroup>
 
 </Project>

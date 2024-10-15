@@ -33,16 +33,10 @@ namespace CisternasGAMC.Migrations
                     b.Property<short>("Capacity")
                         .HasColumnType("smallint");
 
-                    b.Property<DateTime>("LastUpdate")
-                        .HasColumnType("datetime2");
-
                     b.Property<string>("PlateNumber")
                         .IsRequired()
                         .HasMaxLength(7)
                         .HasColumnType("nvarchar(7)");
-
-                    b.Property<DateTime>("RegisterDate")
-                        .HasColumnType("date");
 
                     b.Property<byte>("Status")
                         .HasColumnType("tinyint");
@@ -65,9 +59,6 @@ namespace CisternasGAMC.Migrations
 
                     b.Property<short>("FamilyCount")
                         .HasColumnType("smallint");
-
-                    b.Property<DateTime>("LastUpdate")
-                        .HasColumnType("datetime2");
 
                     b.Property<string>("Name")
                         .IsRequired()
@@ -102,9 +93,6 @@ namespace CisternasGAMC.Migrations
                         .HasMaxLength(40)
                         .HasColumnType("nvarchar(40)");
 
-                    b.Property<DateTime>("LastUpdate")
-                        .HasColumnType("datetime2");
-
                     b.Property<string>("Password")
                         .IsRequired()
                         .HasMaxLength(70)
@@ -114,9 +102,6 @@ namespace CisternasGAMC.Migrations
                         .IsRequired()
                         .HasMaxLength(8)
                         .HasColumnType("nvarchar(8)");
-
-                    b.Property<DateTime>("RegisterDate")
-                        .HasColumnType("date");
 
                     b.Property<string>("Role")
                         .IsRequired()

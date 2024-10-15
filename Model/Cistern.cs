@@ -20,14 +20,5 @@ namespace CisternasGAMC.Model
         [Range(0, 32767, ErrorMessage = "La capacidad debe ser un número positivo.")]
         [Required]
         public short Capacity { get; set; }
-
-        [Required]
-        [DataType(DataType.Date)]
-        [Column(TypeName = "date")]
-        public DateTime RegisterDate { get; set; }
-
-        [Required]
-        [DataType(DataType.DateTime)]
-        public DateTime LastUpdate { get; set; }
     }
 }

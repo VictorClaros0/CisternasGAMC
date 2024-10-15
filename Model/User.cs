@@ -34,15 +34,6 @@ namespace CisternasGAMC.Model
         public string Role { get; set; }
 
         [Required]
-        [DataType(DataType.Date)]
-        [Column(TypeName = "date")]
-        public DateTime RegisterDate { get; set; }
-
-        [Required]
-        [DataType(DataType.DateTime)]
-        public DateTime LastUpdate { get; set; }
-
-        [Required]
         public byte Status { get; set; }
     }
 }

@@ -21,8 +21,5 @@ namespace CisternasGAMC.Model
         [Required]        
         public byte District { get; set; }
 
-        [Required]
-        [DataType(DataType.DateTime)]
-        public DateTime LastUpdate { get; set; }
     }
 }
