@@ -1,0 +1,76 @@
+﻿/* Configuración de estilos para el proyecto - más detalles en https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification */
+
+/* Estilo del enlace de la marca de la barra de navegación */
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-word; /* Cambiado de 'break-all' a 'break-word' para evitar romper palabras */
+}
+
+/* Estilo general para los enlaces */
+a {
+    color: #0077cc;
+}
+
+/* Estilo de los botones primarios */
+.btn-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+/* Estilo para enlaces activos dentro de la navegación con pills */
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+/* Estilo para las líneas superior e inferior */
+.border-top {
+    border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+/* Sombra para elementos con la clase 'box-shadow' */
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+/* Estilo para el botón de aceptación de políticas */
+button.accept-policy {
+    font-size: 1rem;
+    line-height: inherit;
+}
+
+/* Estilo del pie de página */
+.footer {
+    position: relative; /* Cambiado de 'absolute' a 'relative' para evitar que se superponga con el contenido */
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px;
+    text-align: center; /* Centrar el contenido del footer */
+    background: #f8f9fa; /* Añadido un fondo claro para destacar */
+}
+
+/* Ajustes de altura para html y body */
+html, body {
+    height: 100%;
+    margin: 0; /* Eliminado el margen por defecto */
+}
+
+/* Contenedor principal */
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Usar 'min-height' para asegurar que cubra la pantalla completa */
+}
+
+/* Contenido del contenedor */
+.content-wrapper {
+    flex: 1;
+}

@@ -1,51 +1,86 @@
 ﻿<!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - CisternasGAMC</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/CisternasGAMC.styles.css" asp-append-version="true" />
+    <title>CisternasGAMC - Simplificado</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <link rel="stylesheet" href="@Url.Content("~/lib/fontawesome-free/css/all.min.css")" asp-append-version="true">
+    <link rel="stylesheet" href="@Url.Content("~/css/adminlte.min.css")" asp-append-version="true">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fullcalendar@5.10.1/main.min.css" asp-append-version="true"> <!-- Asegúrate de incluir esto -->
+    <link rel="stylesheet" href="@Url.Content("~/css/Calendar.css")" asp-append-version="true"> <!-- Opcional -->
+    <link rel="stylesheet" href="@Url.Content("~/CisternasGAMC.styles.css")" asp-append-version="true" />
+    <link rel="stylesheet" href="@Url.Content("~/css/DeliverStyle.css")" asp-append-version="true">
+    <link rel="stylesheet" href="~/css/styles.css">
 </head>
 <body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+    <div class="wrapper">
+        <!-- Navbar -->
+        <nav class="navbar navbar-expand navbar-dark">
+            <a href="@Url.Page("/Index")" class="navbar-brand">
+                <img src="@Url.Content("~/images/Logos/LogoCochabamba.png")" alt="Logo CisternasGAMC" class="brand-image img-circle elevation-3" style="max-height: 30px; opacity: .8">
+                <span class="brand-text font-weight-light">CisternasGAMC</span>
+            </a>
+        </nav>
+
+        <!-- Content Area principal -->
+        <div class="content">
             <div class="container">
-                <a class="navbar-brand" asp-area="" asp-page="/Index">CisternasGAMC</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
-                        </li>
-                    </ul>
+                <div>
+                    @RenderBody()
                 </div>
             </div>
-        </nav>
-    </header>
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
+        </div>
+
+        <!-- Footer -->
+        <footer>
+            <div class="footer-links">
+                <a href="#">Política de Privacidad</a>
+                <a href="#">Términos y Condiciones</a>
+                <a href="#">Contacto</a>
+
+                @if (User.Identity.IsAuthenticated)
+
+                {
+                    // Mostrar enlaces específicos según el rol del usuario
+                    if (User.IsInRole("admin"))
+                    {
+                        <a href="/Admin/Index" class="nav-link text-white pe-3">Panel Admin</a>
+                    }
+                    else if (User.IsInRole("driver"))
+                    {
+                        <a href="/driver/Index" class="nav-link text-white pe-3">Panel Driver</a>
+                    }
+
+
+
+                    // Enlace para cerrar sesión
+                    <a class="nav-link text-white pe-3" asp-area="" asp-page="/Login/logout">Logout</a>
+                }
+
+                else
+
+                {
+
+                    // Enlace para iniciar sesión si no está autenticado
+                    <a class="nav-link text-white pe-3" asp-area="" asp-page="/Login/Index">Login</a>
+                }
+            </div>
+
+            <strong>&copy; 2024 - CisternasGAMC</strong> - Todos los derechos reservados.
+            <div><b>Versión</b> 1.0.0</div>
+        </footer>
+
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2024 - CisternasGAMC - <a asp-area="" asp-page="/Privacy">Privacy</a>
-        </div>
-    </footer>
+    <!-- Scripts -->
+    <script src="@Url.Content("~/lib/jquery/jquery.min.js")" asp-append-version="true"></script>
+    <script src="@Url.Content("~/lib/bootstrap/js/bootstrap.bundle.min.js")" asp-append-version="true"></script>
+    <script src="@Url.Content("~/js/adminlte.js")" asp-append-version="true"></script>
+    <script src="@Url.Content("~/js/distritos.js")" asp-append-version="true"></script>
+    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.10.1/main.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.10.1/locales-all.min.js"></script> <!-- Agrega esto para soporte de idiomas si es necesario -->
+    @RenderSection("Scripts", required: false)
 
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-
-    @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

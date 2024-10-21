@@ -1,0 +1,59 @@
+﻿@page
+@model CisternasGAMC.Pages.Admin.Cruds.CisternCrud.IndexModel
+
+@{
+    ViewData["Title"] = "Índice de Cisternas";
+
+    Layout = "_LayoutAdmin"; // AdminLTE Layout
+}
+
+<section class="content-header">
+    <h1>Cisternas</h1>
+</section>
+
+<section class="content">
+    <div class="box">
+        <div class="box-header with-border">
+            <a asp-page="Create" class="btn btn-primary">Crear Nueva Cisterna</a>
+        </div>
+        <div class="box-body">
+            <table class="table table-bordered table-hover">
+                <thead>
+                    <tr>
+                        <th>Estado</th>
+                        <th>Número de Placa</th>
+                        <th>Capacidad</th>
+                        <th>Acciones</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.Cistern)
+
+                    {
+
+                        var estado = item.Status switch
+
+                        {
+                            1 => "Activo",
+                            2 => "Mantenimiento",
+                            3 => "Otro",
+                            _ => "Desconocido"
+
+                        };
+
+                        <tr>
+                            <td>@estado</td>
+                            <td>@Html.DisplayFor(modelItem => item.PlateNumber)</td>
+                            <td>@Html.DisplayFor(modelItem => item.Capacity)</td>
+                            <td>
+                                <a asp-page="./Edit" asp-route-id="@item.CisternId" class="btn btn-xs btn-warning">Editar</a>
+                                <a asp-page="./Details" asp-route-id="@item.CisternId" class="btn btn-xs btn-info">Detalles</a>
+                                <a asp-page="./Delete" asp-route-id="@item.CisternId" class="btn btn-xs btn-danger">Eliminar</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</section>

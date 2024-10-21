@@ -1,0 +1,63 @@
+﻿/* Default background color (programmed) */
+.normal-bg {
+    background-color: rgba(255, 255, 255, 0.9); /* Slightly more opaque for better contrast */
+    border: 1px solid #ccc; /* Subtle border for contrast */
+    transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+/* Green background for "in progress" */
+.green-bg {
+    background-color: rgba(56, 193, 114, 0.9); /* Brighter green for better readability */
+    border: 1px solid #28a745; /* Slightly darker border for better contrast */
+    color: #ffffff; /* White text to ensure readability */
+    transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+/* Red background for "completed" */
+.red-bg {
+    background-color: rgba(244, 67, 54, 0.9); /* Brighter red for better visibility */
+    border: 1px solid #dc3545; /* Slightly darker border for better contrast */
+    color: #ffffff; /* White text to ensure readability */
+    transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+/* Hover effect for all cards */
+.card:hover {
+    transform: translateY(-5px); /* Slight elevation effect */
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15); /* Soft shadow on hover */
+}
+
+/* Card title styling */
+.card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #333; /* Dark color for the title */
+}
+
+/* Text within the card */
+.card-text {
+    font-size: 1rem;
+    color: #444; /* Slightly dark text for readability */
+}
+
+/* Adding some padding to the card */
+.card-body {
+    padding: 20px;
+    text-align: center;
+}
+
+/* Media queries for responsiveness */
+@media screen and (max-width: 768px) {
+    .card-title {
+        font-size: 1.3rem;
+    }
+
+    .card-text {
+        font-size: 0.9rem;
+    }
+
+    .card-body {
+        padding: 15px;
+    }
+}

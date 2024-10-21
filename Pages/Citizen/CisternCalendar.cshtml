@@ -1,0 +1,66 @@
+﻿@page
+@model CisternasGAMC.Pages.Citizen.CisternCalendarModel
+@{
+    Layout = "_Layout";
+}
+<link href="~/css/Calendar.css" rel="stylesheet" />
+
+<!-- Main container -->
+<div class="container mt-5">
+    <section class="text-center">
+        <h1 class="display-4 mb-3 text-primary">Entregas de Agua para @Model.NombreOTB</h1>
+
+        <!-- Delivery Cards -->
+        <div id="deliveryContainer" class="row mt-5">
+            @foreach (var day in Enum.GetValues(typeof(DayOfWeek)).Cast<DayOfWeek>())
+            {
+                var deliveriesForDay = Model.CalendarEvents
+                .Where(e => e.DayOfWeek == day.ToString())
+                .ToList();
+
+                @if (deliveriesForDay.Any()) // Only render if there are deliveries for this day
+                {
+                    <div class="col-lg-4 col-md-6 mb-4">
+                        @foreach (var timeSlot in new[] { "En la Mañana", "En la Tarde", "En la Noche" })
+                        {
+                            var eventsInSlot = deliveriesForDay
+                            .Where(e => e.TimeSlot == timeSlot)
+                            .ToList();
+
+                            @if (eventsInSlot.Any())
+                            {
+                                @foreach (var evnt in eventsInSlot)
+                                {
+                                    <div class="card otb-card shadow-lg border-0 mb-3 @(evnt.Title == "1" ? "normal-bg" : evnt.Title == "2" ? "green-bg" : "red-bg")">
+                                        <!-- Card Body with Flexbox to center the content -->
+                                        <div class="card-body d-flex flex-column align-items-center justify-content-center">
+                                            <h5 class="card-title">@Model.GetSpanishDayName(day)</h5>
+                                            <p>
+                                                La Entrega:
+                                                @switch (evnt.Title)
+                                                {
+                                                    case "1":
+                                                        <span>está programada</span>
+                                                        ;
+                                                        break;
+                                                    case "2":
+                                                        <span>está en curso, sal a buscar la cisterna</span>
+                                                        ;
+                                                        break;
+                                                    case "3":
+                                                        <span>ya terminó</span>
+                                                        ;
+                                                        break;
+                                                }
+                                            </p>
+                                        </div>
+                                    </div>
+                                }
+                            }
+                        }
+                    </div>
+                }
+            }
+        </div>
+    </section>
+</div>
