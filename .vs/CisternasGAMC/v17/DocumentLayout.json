@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\kiurt\\documents\\github\\cisternasgamc\\pages\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\kiurt\\documents\\github\\cisternasgamc\\pages\\login\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\login\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\kiurt\\documents\\github\\cisternasgamc\\pages\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\kiurt\\documents\\github\\cisternasgamc\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\kiurt\\documents\\github\\cisternasgamc\\pages\\login\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\login\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\kiurt\\documents\\github\\cisternasgamc\\pages\\login\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\login\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\kiurt\\documents\\github\\cisternasgamc\\pages\\login\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\login\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\kiurt\\documents\\github\\cisternasgamc\\pages\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\kiurt\\documents\\github\\cisternasgamc\\pages\\shared\\_layoutadmin.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\shared\\_layoutadmin.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\kiurt\\documents\\github\\cisternasgamc\\pages\\login\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\login\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\kiurt\\documents\\github\\cisternasgamc\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\kiurt\\documents\\github\\cisternasgamc\\pages\\admin\\cruds\\usercrud\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\cruds\\usercrud\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\kiurt\\documents\\github\\cisternasgamc\\pages\\shared\\_layoutadmin.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\shared\\_layoutadmin.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\kiurt\\documents\\github\\cisternasgamc\\pages\\admin\\cruds\\usercrud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -37,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\kiurt\\documents\\github\\cisternasgamc\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\kiurt\\documents\\github\\cisternasgamc\\pages\\login\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\login\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\kiurt\\documents\\github\\cisternasgamc\\pages\\admin\\cruds\\otbcrud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -191,10 +203,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\kiurt\\documents\\github\\cisternasgamc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\kiurt\\documents\\github\\cisternasgamc\\pages\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:pages\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\kiurt\\documents\\github\\cisternasgamc\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -403,12 +411,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|c:\\users\\kiurt\\documents\\github\\cisternasgamc\\cisternasgamc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{0C0E068E-4793-4F25-9513-BB7D6F709487}|CisternasGAMC.csproj|solutionrelative:cisternasgamc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kiurt\\AppData\\Local\\Temp\\vrmjttfv..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kiurt\\AppData\\Local\\Temp\\vrmjttfv..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -418,76 +420,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 385,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\UserCrud\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Create.cshtml.cs",
-              "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Create.cshtml.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAswC4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:54:34.849Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Create.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\UserCrud\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Create.cshtml",
-              "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Create.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T22:54:34.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_LayoutAdmin.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Shared\\_LayoutAdmin.cshtml",
-              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeToolTip": "Pages\\Shared\\_LayoutAdmin.cshtml",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAcwDIAAACAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-05T00:09:05.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_LayoutAdmin.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Shared\\_LayoutAdmin.cshtml.css",
-              "RelativeDocumentMoniker": "Pages\\Shared\\_LayoutAdmin.cshtml.css",
-              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Shared\\_LayoutAdmin.cshtml.css",
-              "RelativeToolTip": "Pages\\Shared\\_LayoutAdmin.cshtml.css",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAQwB0AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-05T00:09:09.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAiwDUAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAiwF4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-15T15:55:18.913Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "changePassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Login\\changePassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Login\\changePassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Login\\changePassword.cshtml.cs",
+              "RelativeToolTip": "Pages\\Login\\changePassword.cshtml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAUwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:46:07.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Login\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Login\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Login\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Login\\Index.cshtml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:31:34.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAQwPsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T00:09:05.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T00:08:34.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Login\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Login\\Index.cshtml",
@@ -500,20 +502,70 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Login\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Login\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Login\\Index.cshtml.cs",
-              "RelativeToolTip": "Pages\\Login\\Index.cshtml.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAwD8AAAA8AAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Login\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Login\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Login\\Logout.cshtml.cs",
+              "RelativeToolTip": "Pages\\Login\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T03:31:34.066Z",
+              "WhenOpened": "2024-10-22T04:52:04.884Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
+              "Title": "changePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Login\\changePassword.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Login\\changePassword.cshtml",
+              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Login\\changePassword.cshtml",
+              "RelativeToolTip": "Pages\\Login\\changePassword.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T14:43:26.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\UserCrud\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Create.cshtml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T22:54:34.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_LayoutAdmin.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Shared\\_LayoutAdmin.cshtml.css",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_LayoutAdmin.cshtml.css",
+              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Shared\\_LayoutAdmin.cshtml.css",
+              "RelativeToolTip": "Pages\\Shared\\_LayoutAdmin.cshtml.css",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwB0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-05T00:09:09.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\UserCrud\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T22:54:34.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Logout.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Login\\Logout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Login\\Logout.cshtml",
@@ -521,12 +573,11 @@
               "RelativeToolTip": "Pages\\Login\\Logout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-22T04:52:02.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T04:52:02.398Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "login.css",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\wwwroot\\css\\login.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\login.css",
@@ -534,12 +585,11 @@
               "RelativeToolTip": "wwwroot\\css\\login.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-10T03:59:19.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T03:59:19.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\OtbCrud\\Index.cshtml",
@@ -547,12 +597,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\OtbCrud\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T22:54:02.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:02.125Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\CisternCrud\\Index.cshtml",
@@ -560,12 +609,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\CisternCrud\\Index.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAcwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T22:53:05.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:53:05.937Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "Deliver.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Driver\\Deliver.cshtml",
               "RelativeDocumentMoniker": "Pages\\Driver\\Deliver.cshtml",
@@ -573,25 +621,11 @@
               "RelativeToolTip": "Pages\\Driver\\Deliver.cshtml",
               "ViewState": "AgIAAAoAAAAAAAAAAAAcwDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T16:00:07.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T16:00:07.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Logout.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Login\\Logout.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Login\\Logout.cshtml.cs",
-              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Login\\Logout.cshtml.cs",
-              "RelativeToolTip": "Pages\\Login\\Logout.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T04:52:04.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Index.cshtml",
@@ -599,12 +633,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Index.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAiwD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-07T23:11:48.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T23:11:48.085Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\UserCrud\\Index.cshtml",
@@ -612,12 +645,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Index.cshtml",
               "ViewState": "AgIAABkAAAAAAAAAAAAwwD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T12:18:50.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T12:18:50.644Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Details.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Details.cshtml",
@@ -625,12 +657,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Details.cshtml",
               "ViewState": "AgIAACcAAAAAAAAAAAAAADUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-07T23:11:47.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T23:11:47.624Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Details.cshtml.cs",
@@ -638,12 +669,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Details.cshtml.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAkwBwAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T23:11:47.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T23:11:47.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Edit.cshtml.cs",
@@ -651,12 +681,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Edit.cshtml.cs",
               "ViewState": "AgIAAEoAAAAAAAAAAAAiwGUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T23:11:47.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T23:11:47.516Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Edit.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Edit.cshtml",
@@ -664,12 +693,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-07T23:11:47.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T23:11:47.41Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Create.cshtml.cs",
@@ -677,12 +705,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Create.cshtml.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAuwFMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T23:11:47.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T23:11:47.292Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Create.cshtml",
@@ -690,12 +717,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Create.cshtml",
               "ViewState": "AgIAAAsAAAAAAAAAAAAYwEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-07T23:11:47.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T23:11:47.166Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "DeliverFinished.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Driver\\DeliverFinished.cshtml",
               "RelativeDocumentMoniker": "Pages\\Driver\\DeliverFinished.cshtml",
@@ -703,12 +729,11 @@
               "RelativeToolTip": "Pages\\Driver\\DeliverFinished.cshtml",
               "ViewState": "AgIAAA4AAAAAAAAAAAAcwDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-22T04:10:01.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T04:10:01.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "DeliverFinished.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Driver\\DeliverFinished.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Driver\\DeliverFinished.cshtml.cs",
@@ -716,12 +741,11 @@
               "RelativeToolTip": "Pages\\Driver\\DeliverFinished.cshtml.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T04:10:29.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T04:10:29.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Driver\\index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Driver\\index.cshtml.cs",
@@ -729,12 +753,11 @@
               "RelativeToolTip": "Pages\\Driver\\index.cshtml.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T17:56:27.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T17:56:27.83Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "index.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Driver\\index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Driver\\index.cshtml",
@@ -742,12 +765,11 @@
               "RelativeToolTip": "Pages\\Driver\\index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T16:07:00.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T16:07:00.737Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "CisternCalendar.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Citizen\\CisternCalendar.cshtml",
               "RelativeDocumentMoniker": "Pages\\Citizen\\CisternCalendar.cshtml",
@@ -755,12 +777,11 @@
               "RelativeToolTip": "Pages\\Citizen\\CisternCalendar.cshtml",
               "ViewState": "AgIAAD8AAAAAAAAAAAAAAFYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T16:36:56.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T16:36:56.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "Deliver.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Driver\\Deliver.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Driver\\Deliver.cshtml.cs",
@@ -768,12 +789,11 @@
               "RelativeToolTip": "Pages\\Driver\\Deliver.cshtml.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwCYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T17:25:09.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T17:25:09.873Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "CisternCalendar.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Citizen\\CisternCalendar.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Citizen\\CisternCalendar.cshtml.cs",
@@ -781,23 +801,22 @@
               "RelativeToolTip": "Pages\\Citizen\\CisternCalendar.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T22:10:07.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T22:10:07.559Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "SQLQuery1.sql ",
+              "DocumentIndex": 29,
+              "Title": "vrmjttfv..sql",
               "DocumentMoniker": "C:\\Users\\Kiurt\\AppData\\Local\\Temp\\vrmjttfv..sql",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\vrmjttfv..sql",
-              "ToolTip": "SQLQuery1.sql *",
+              "ToolTip": "C:\\Users\\Kiurt\\AppData\\Local\\Temp\\vrmjttfv..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\vrmjttfv..sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-22T04:16:29.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T04:16:29.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "WaterDelivery.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Model\\WaterDelivery.cs",
               "RelativeDocumentMoniker": "Model\\WaterDelivery.cs",
@@ -805,12 +824,11 @@
               "RelativeToolTip": "Model\\WaterDelivery.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAwwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T18:12:07.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T18:12:07.923Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\UserCrud\\Delete.cshtml.cs",
@@ -818,12 +836,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Delete.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:54:35.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:35.385Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Delete.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\UserCrud\\Delete.cshtml",
@@ -831,12 +848,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Delete.cshtml",
               "ViewState": "AgIAAA4AAAAAAAAAAAAewB4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T22:54:35.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:35.287Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Details.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\UserCrud\\Details.cshtml",
@@ -844,12 +860,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Details.cshtml",
               "ViewState": "AgIAABcAAAAAAAAAAAAiwDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T22:54:35.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:35.097Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\OtbCrud\\Details.cshtml.cs",
@@ -857,12 +872,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\OtbCrud\\Details.cshtml.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAEwA4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:54:01.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:01.863Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\UserCrud\\Details.cshtml.cs",
@@ -870,12 +884,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Details.cshtml.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAiwE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:54:35.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:35.192Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Edit.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\UserCrud\\Edit.cshtml",
@@ -883,12 +896,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Edit.cshtml",
               "ViewState": "AgIAADMAAAAAAAAAAIBJwEgAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T22:54:34.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:34.933Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\CisternCrud\\Details.cshtml.cs",
@@ -896,12 +908,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\CisternCrud\\Details.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:53:05.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:53:05.576Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Details.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\OtbCrud\\Details.cshtml",
@@ -909,12 +920,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\OtbCrud\\Details.cshtml",
               "ViewState": "AgIAAJ8AAAAAAAAAAAAiwLMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T22:54:01.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:01.781Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Details.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\CisternCrud\\Details.cshtml",
@@ -922,12 +932,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\CisternCrud\\Details.cshtml",
               "ViewState": "AgIAADkAAAAAAAAAAAAiwJgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T22:53:05.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:53:05.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "styles.css",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\wwwroot\\css\\styles.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\styles.css",
@@ -935,12 +944,11 @@
               "RelativeToolTip": "wwwroot\\css\\styles.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-15T18:13:02.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T18:13:02.843Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -948,12 +956,11 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-15T16:24:39.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T16:24:39.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 48,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\CisternCrud\\Create.cshtml",
@@ -961,12 +968,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\CisternCrud\\Create.cshtml",
               "ViewState": "AgIAAAoAAAAAAAAAAIBJwBYAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T22:53:05.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:53:05.091Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "adminlte.css",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\wwwroot\\css\\adminlte.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\adminlte.css",
@@ -974,12 +980,11 @@
               "RelativeToolTip": "wwwroot\\css\\adminlte.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-18T00:51:20.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T00:51:20.334Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "Calendar.css",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\wwwroot\\css\\Calendar.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\Calendar.css",
@@ -987,12 +992,11 @@
               "RelativeToolTip": "wwwroot\\css\\Calendar.css",
               "ViewState": "AgIAACcAAAAAAAAAAADwvz8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-06T00:33:10.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T00:33:10.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 47,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "Pages\\Error.cshtml",
@@ -1000,12 +1004,11 @@
               "RelativeToolTip": "Pages\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T04:26:34.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T04:26:34.24Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
@@ -1013,12 +1016,11 @@
               "RelativeToolTip": "Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-05T02:24:35.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T02:24:35.022Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 49,
               "Title": "nkpd33zi..sql",
               "DocumentMoniker": "C:\\Users\\Kiurt\\AppData\\Local\\Temp\\nkpd33zi..sql",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\nkpd33zi..sql",
@@ -1029,7 +1031,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -1037,25 +1039,11 @@
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-04T22:16:55.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:16:55.086Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Admin\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Admin\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-05T00:08:34.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 54,
               "Title": "Cistern.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Model\\Cistern.cs",
               "RelativeDocumentMoniker": "Model\\Cistern.cs",
@@ -1063,12 +1051,11 @@
               "RelativeToolTip": "Model\\Cistern.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T16:43:28.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T16:43:28.535Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 53,
               "Title": "whf3sfa2..sql",
               "DocumentMoniker": "C:\\Users\\Kiurt\\AppData\\Local\\Temp\\whf3sfa2..sql",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\whf3sfa2..sql",
@@ -1079,7 +1066,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
@@ -1087,12 +1074,11 @@
               "RelativeToolTip": "Pages\\Index.cshtml.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAgwCUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T18:08:02.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T18:08:02.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -1100,12 +1086,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAiwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T21:47:53.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T21:47:53.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 56,
               "Title": "20241010063551_first.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Migrations\\20241010063551_first.cs",
               "RelativeDocumentMoniker": "Migrations\\20241010063551_first.cs",
@@ -1113,12 +1098,11 @@
               "RelativeToolTip": "Migrations\\20241010063551_first.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T15:34:59.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T15:34:59.183Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 55,
               "Title": "20241010063551_first.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Migrations\\20241010063551_first.Designer.cs",
               "RelativeDocumentMoniker": "Migrations\\20241010063551_first.Designer.cs",
@@ -1126,12 +1110,11 @@
               "RelativeToolTip": "Migrations\\20241010063551_first.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAIwA8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T15:35:01.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T15:35:01.803Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 57,
               "Title": "tabt4rtp..sql",
               "DocumentMoniker": "C:\\Users\\Kiurt\\AppData\\Local\\Temp\\tabt4rtp..sql",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\tabt4rtp..sql",
@@ -1142,7 +1125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 58,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Model\\User.cs",
               "RelativeDocumentMoniker": "Model\\User.cs",
@@ -1150,12 +1133,11 @@
               "RelativeToolTip": "Model\\User.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAzwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T18:03:27.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T18:03:27.283Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 61,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Edit.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\OtbCrud\\Edit.cshtml",
@@ -1163,12 +1145,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\OtbCrud\\Edit.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAIBJwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T22:54:01.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:01.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 59,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Delete.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Delete.cshtml",
@@ -1176,12 +1157,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Delete.cshtml",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwCEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-07T23:11:47.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T23:11:47.893Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 62,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\CisternCrud\\Edit.cshtml.cs",
@@ -1189,12 +1169,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\CisternCrud\\Edit.cshtml.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAQwE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:53:05.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:53:05.336Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 60,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Edit.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\CisternCrud\\Edit.cshtml",
@@ -1202,12 +1181,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\CisternCrud\\Edit.cshtml",
               "ViewState": "AgIAAAoAAAAAAAAAAAAYwBEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T22:53:05.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:53:05.262Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 63,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Delete.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\CisternCrud\\Delete.cshtml",
@@ -1215,12 +1193,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\CisternCrud\\Delete.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAIBJwB0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T22:53:05.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:53:05.741Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 64,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Delete.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\OtbCrud\\Delete.cshtml",
@@ -1228,12 +1205,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\OtbCrud\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T22:54:01.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:01.954Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 65,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\OtbCrud\\Create.cshtml",
@@ -1241,12 +1217,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\OtbCrud\\Create.cshtml",
               "ViewState": "AgIAAAIAAAAAAAAAAIBJwA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T22:54:01.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:01.388Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 66,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\CisternCrud\\Create.cshtml.cs",
@@ -1254,12 +1229,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\CisternCrud\\Create.cshtml.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAYwCUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:53:05.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:53:05.179Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 69,
               "Title": "btaj23y1..sql",
               "DocumentMoniker": "C:\\Users\\Kiurt\\AppData\\Local\\Temp\\btaj23y1..sql",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\btaj23y1..sql",
@@ -1270,7 +1244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 68,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
@@ -1278,12 +1252,11 @@
               "RelativeToolTip": "wwwroot\\js\\site.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-04T22:17:00.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:17:00.437Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 67,
               "Title": "script.js",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\wwwroot\\js\\script.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\script.js",
@@ -1291,12 +1264,11 @@
               "RelativeToolTip": "wwwroot\\js\\script.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-15T18:13:16.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T18:13:16.023Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 70,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -1304,12 +1276,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-04T21:48:46.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T21:48:46.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 71,
               "Title": "olyjjeyx..sql",
               "DocumentMoniker": "C:\\Users\\Kiurt\\AppData\\Local\\Temp\\olyjjeyx..sql",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\olyjjeyx..sql",
@@ -1320,7 +1291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 72,
               "Title": "vxg2vfu4..sql",
               "DocumentMoniker": "C:\\Users\\Kiurt\\AppData\\Local\\Temp\\vxg2vfu4..sql",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\vxg2vfu4..sql",
@@ -1331,7 +1302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 73,
               "Title": "demo.js",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\wwwroot\\js\\demo.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\demo.js",
@@ -1339,12 +1310,11 @@
               "RelativeToolTip": "wwwroot\\js\\demo.js",
               "ViewState": "AgIAAJkCAAAAAAAAAAAiwKYCAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-15T11:04:18.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T11:04:18.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 74,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Delete.cshtml.cs",
@@ -1352,21 +1322,20 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Delete.cshtml.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAIBZwDsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T23:11:47.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T23:11:47.985Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
-              "Title": "dbo.Users [Data]",
+              "DocumentIndex": 75,
+              "Title": "dbo.Users.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CisternasGAMC/True/SqlTable/dbo.Users.sql",
-              "ToolTip": "dbo.Users [Data]",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CisternasGAMC/True/SqlTable/dbo.Users.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-10-15T01:09:41.938Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 76,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Index.cshtml.cs",
@@ -1374,12 +1343,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Index.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T23:11:48.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T23:11:48.18Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 77,
               "Title": "Otb.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Model\\Otb.cs",
               "RelativeDocumentMoniker": "Model\\Otb.cs",
@@ -1387,12 +1355,11 @@
               "RelativeToolTip": "Model\\Otb.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T18:01:57.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T18:01:57.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 78,
               "Title": "jjsb4zp2..sql",
               "DocumentMoniker": "C:\\Users\\Kiurt\\AppData\\Local\\Temp\\jjsb4zp2..sql",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\jjsb4zp2..sql",
@@ -1403,7 +1370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 80,
               "Title": "distritos.js",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\wwwroot\\js\\distritos.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\distritos.js",
@@ -1411,12 +1378,11 @@
               "RelativeToolTip": "wwwroot\\js\\distritos.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-05T21:50:09.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T21:50:09.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 79,
               "Title": "dbo.Otbs.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CisternasGAMC/True/SqlTable/dbo.Otbs.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CisternasGAMC/True/SqlTable/dbo.Otbs.sql",
@@ -1425,7 +1391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 81,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Report\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Report\\Index.cshtml",
@@ -1433,12 +1399,11 @@
               "RelativeToolTip": "Pages\\Admin\\Report\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T12:52:47.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T12:52:47.027Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 82,
               "Title": "prueba.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\prueba.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\prueba.cshtml",
@@ -1446,12 +1411,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\prueba.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwDAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T23:07:34.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T23:07:34.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 83,
               "Title": "uittr4z5..sql",
               "DocumentMoniker": "C:\\Users\\Kiurt\\AppData\\Local\\Temp\\uittr4z5..sql",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\uittr4z5..sql",
@@ -1462,7 +1426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 84,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Index.cshtml.cs",
@@ -1470,12 +1434,11 @@
               "RelativeToolTip": "Pages\\Admin\\Index.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T11:35:04.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T11:35:04.505Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 86,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\UserCrud\\Edit.cshtml.cs",
@@ -1483,12 +1446,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Edit.cshtml.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:54:35.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:35.011Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 85,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\UserCrud\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\UserCrud\\Index.cshtml.cs",
@@ -1496,12 +1458,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\UserCrud\\Index.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T05:59:26.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T05:59:26.027Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 90,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
@@ -1509,12 +1470,11 @@
               "RelativeToolTip": "Pages\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-05T00:07:22.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T00:07:22.806Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 87,
               "Title": "20241010051749_first.cs",
               "DocumentMoniker": "D:\\CisternasGAMC\\Migrations\\20241010051749_first.cs",
               "ToolTip": "D:\\CisternasGAMC\\Migrations\\20241010051749_first.cs",
@@ -1523,7 +1483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 91,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -1531,12 +1491,11 @@
               "RelativeToolTip": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T23:46:05.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T23:46:05.211Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 88,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -1544,12 +1503,11 @@
               "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ViewState": "AgIAAJMAAAAAAAAAAIBZwG0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T04:12:14.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T04:12:14.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 89,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
@@ -1557,12 +1515,11 @@
               "RelativeToolTip": "Pages\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-05T00:07:15.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T00:07:15.326Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 92,
               "Title": "20241010041743_first.cs",
               "DocumentMoniker": "D:\\CisternasGAMC\\Migrations\\20241010041743_first.cs",
               "ToolTip": "D:\\CisternasGAMC\\Migrations\\20241010041743_first.cs",
@@ -1571,7 +1528,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 93,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -1579,12 +1536,11 @@
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T21:51:47.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T21:51:47.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 95,
               "Title": "Calendar.js",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\wwwroot\\js\\Calendar.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\Calendar.js",
@@ -1592,12 +1548,11 @@
               "RelativeToolTip": "wwwroot\\js\\Calendar.js",
               "ViewState": "AgIAABgAAAAAAAAAAAAUwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-09T02:13:03.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T02:13:03.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 94,
               "Title": "dbo.WaterDeliveries.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CisternasGAMC/True/SqlTable/dbo.WaterDeliveries.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CisternasGAMC/True/SqlTable/dbo.WaterDeliveries.sql",
@@ -1606,7 +1561,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 96,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml.css",
@@ -1614,12 +1569,11 @@
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-04T23:47:23.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T23:47:23.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 97,
               "Title": "prueba.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\prueba.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\prueba.cshtml.cs",
@@ -1627,12 +1581,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\prueba.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T23:47:18.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T23:47:18.725Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 98,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\OtbCrud\\Index.cshtml.cs",
@@ -1640,12 +1593,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\OtbCrud\\Index.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:54:02.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:02.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 99,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\OtbCrud\\Delete.cshtml.cs",
@@ -1653,12 +1605,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\OtbCrud\\Delete.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:54:02.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:02.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 100,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\OtbCrud\\Edit.cshtml.cs",
@@ -1666,12 +1617,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\OtbCrud\\Edit.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:54:01.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:01.689Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 101,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\OtbCrud\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\OtbCrud\\Create.cshtml.cs",
@@ -1679,12 +1629,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\OtbCrud\\Create.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:54:01.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:54:01.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 102,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\CisternCrud\\Index.cshtml.cs",
@@ -1692,12 +1641,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\CisternCrud\\Index.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:53:06.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:53:06.027Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 101,
+              "DocumentIndex": 103,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\CisternCrud\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\CisternCrud\\Delete.cshtml.cs",
@@ -1705,12 +1653,11 @@
               "RelativeToolTip": "Pages\\Admin\\Cruds\\CisternCrud\\Delete.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:53:05.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:53:05.833Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 102,
+              "DocumentIndex": 104,
               "Title": "bootstrap.js",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
               "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
@@ -1718,20 +1665,42 @@
               "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
               "ViewState": "AgIAAE8AAAAAAAAAAABhwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-04T22:26:20.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:26:20.528Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 103,
+              "DocumentIndex": 105,
               "Title": "CisternasGAMC",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\CisternasGAMC.csproj",
               "RelativeDocumentMoniker": "CisternasGAMC.csproj",
               "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\CisternasGAMC.csproj",
               "RelativeToolTip": "CisternasGAMC.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-04T22:17:13.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:17:13.838Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 634,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

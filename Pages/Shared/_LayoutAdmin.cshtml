@@ -42,7 +42,7 @@
                         <i class="fas fa-user-circle fa-2x text-light" title="Perfil de usuario" data-toggle="modal" data-target="#userDetailsModal"></i>
                     </div>
                     <div class="info">
-                        <a href="#" class="d-block" data-toggle="modal" data-target="#userDetailsModal"> @User.FindFirst(System.Security.Claims.ClaimTypes.Name)?.Value</a>
+                        <a href="#" class="d-block" data-toggle="modal" data-target="#userDetailsModal">@User.FindFirst(System.Security.Claims.ClaimTypes.Name)?.Value</a>
                     </div>
                 </div>
 
@@ -131,8 +131,8 @@
                 </div>
                 <div class="modal-body">
                     <p><strong>Nombre:</strong> @User.FindFirst(System.Security.Claims.ClaimTypes.Name)?.Value</p>
-                    <p><strong>Correo electrónico:</strong>  @User.FindFirst(System.Security.Claims.ClaimTypes.Email)?.Value</p>
-                    <p><strong>Rol:</strong>  @User.FindFirst(System.Security.Claims.ClaimTypes.Role)?.Value</p>
+                    <p><strong>Correo electrónico:</strong> @User.FindFirst(System.Security.Claims.ClaimTypes.Email)?.Value</p>
+                    <p><strong>Rol:</strong> @User.FindFirst(System.Security.Claims.ClaimTypes.Role)?.Value</p>
                     <button class="btn btn-warning btn-block" data-toggle="modal" data-target="#changePasswordModal" data-dismiss="modal">Cambiar Contraseña</button>
                     <button class="btn btn-danger btn-block" data-toggle="modal" data-target="#logoutModal" data-dismiss="modal">Cerrar Sesión</button>
                 </div>
@@ -151,7 +151,7 @@
                     </button>
                 </div>
                 <div class="modal-body">
-                    <form method="post" asp-page-handler="ChangePassword">
+                    <form method="post" asp-page-handler="ChangePassword" asp-page="/Login/changePassword">
                         @Html.AntiForgeryToken()
 
                         <!-- Campo para la contraseña antigua -->
@@ -180,35 +180,89 @@
         </div>
     </div>
 
-    <!-- Modal de confirmación de logout -->
-    <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="logoutModalLabel" aria-hidden="true">
+    <!-- Modal para cambiar la contraseña -->
+    <div class="modal fade" id="changePasswordModal" tabindex="-1" role="dialog" aria-labelledby="changePasswordModalLabel" aria-hidden="true">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title" id="logoutModalLabel">Confirmar Logout</h5>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <h5 class="modal-title" id="changePasswordModalLabel">Cambiar Contraseña</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Cerrar">
                         <span aria-hidden="true">&times;</span>
                     </button>
                 </div>
                 <div class="modal-body">
-                    ¿Seguro que deseas cerrar sesión?
-                </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+                    <!-- Mensajes de error -->
+                    @if (TempData["Message"] != null)
+                    {
+                        <div class="alert alert-danger">
+                            @TempData["Message"]
+                        </div>
+                    }
 
-                    <!-- Formulario de logout -->
-                    <form method="post" asp-page="/Login/Logout">
-                        <button type="submit" class="btn btn-danger">Cerrar sesión</button>
+                    <form method="post" asp-page-handler="ChangePassword" asp-page="/Login/changePassword">
+                        @Html.AntiForgeryToken()
+
+                        <!-- Campo para la contraseña antigua -->
+                        <div class="form-group">
+                            <label for="oldPassword">Contraseña Antigua</label>
+                            <input type="password" class="form-control" id="oldPassword" name="OldPassword" placeholder="Introduce tu contraseña actual" required>
+                        </div>
+
+                        <!-- Campo para la nueva contraseña -->
+                        <div class="form-group">
+                            <label for="newPassword">Nueva Contraseña</label>
+                            <input type="password" class="form-control" id="newPassword" name="NewPassword" placeholder="Introduce tu nueva contraseña" required>
+                        </div>
+
+                        <!-- Campo para confirmar la nueva contraseña -->
+                        <div class="form-group">
+                            <label for="confirmNewPassword">Confirmar Nueva Contraseña</label>
+                            <input type="password" class="form-control" id="confirmNewPassword" name="ConfirmNewPassword" placeholder="Repite tu nueva contraseña" required>
+                        </div>
+
+                        <!-- Botón de envío para cambiar la contraseña -->
+                        <button type="submit" class="btn btn-primary btn-block">Cambiar Contraseña</button>
                     </form>
                 </div>
             </div>
         </div>
     </div>
 
+    <!-- Script para gestionar los mensajes y limpiar campos -->
+    <script>
+        $(document).ready(function () {
+            // Verificamos si hay un mensaje de error en TempData
+            var hasError = '@TempData["Message"]' !== '';
+            if (hasError) {
+                // Mostrar el modal de nuevo si hay error
+                $('#changePasswordModal').modal('show');
+
+                // Limpiar los campos de contraseña si el error es de contraseñas
+                var errorField = '@TempData["ErrorField"]';
+                if (errorField === "OldPassword") {
+                    $('#oldPassword').val('');
+                }
+                if (errorField === "NewPassword") {
+                    $('#newPassword').val('');
+                    $('#confirmNewPassword').val('');
+                }
+            }
+        });
+    </script>
+
+
     <!-- Scripts -->
     <script src="@Url.Content("~/lib/jquery/jquery.min.js")"></script>
     <script src="@Url.Content("~/lib/bootstrap/js/bootstrap.bundle.min.js")"></script>
     <script src="@Url.Content("~/js/adminlte.js")"></script>
+    <script src="@Url.Content("~/lib/jquery/jquery.min.js")" asp-append-version="true"></script>
+    <script src="@Url.Content("~/lib/bootstrap/js/bootstrap.bundle.min.js")" asp-append-version="true"></script>
+    <script src="@Url.Content("~/js/adminlte.js")" asp-append-version="true"></script>
+    <script src="@Url.Content("~/js/distritos.js")" asp-append-version="true"></script>
+    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.10.1/main.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.10.1/locales-all.min.js"></script> <!-- Agrega esto para soporte de idiomas si es necesario -->
+    @RenderSection("Scripts", required: false)
+
 </body>
 
 </html>
