@@ -11,16 +11,22 @@ using System.Net;
 using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.Extensions.Caching.Memory;
 
 namespace CisternasGAMC.Pages.Login
 {
     public class IndexModel : PageModel
     {
         private readonly ApplicationDbContext _context;
+        private readonly IMemoryCache _cache;
 
-        public IndexModel(ApplicationDbContext context)
+        private const int MaxFailedAttempts = 3;
+        private const int BlockDurationMinutes = 1; // Duración del bloqueo después de 7 intentos fallidos
+
+        public IndexModel(ApplicationDbContext context, IMemoryCache cache)
         {
             _context = context;
+            _cache = cache;
         }
 
         // Propiedades de entrada
@@ -50,27 +56,37 @@ namespace CisternasGAMC.Pages.Login
         // Método POST para login
         public async Task<IActionResult> OnPostAsync()
         {
+            var ipAddress = HttpContext.Connection.RemoteIpAddress?.ToString();
+            var failedAttempts = GetFailedAttempts(ipAddress);
+
+            if (failedAttempts >= MaxFailedAttempts)
+            {
+                ModelState.AddModelError(string.Empty, $"Has superado el número máximo de {MaxFailedAttempts} intentos fallidos. Intenta nuevamente en {BlockDurationMinutes} minutos.");
+                return Page(); // Regresa a la página sin borrar campos
+            }
+
             var user = await _context.Users.FirstOrDefaultAsync(u => u.Email == Correo);
 
             if (user != null)
             {
-                // En este punto podrías implementar la verificación de la contraseña real
                 if (BCrypt.Net.BCrypt.Verify(Password, user.Password))
                 {
+                    // Resetea los intentos fallidos
+                    ResetFailedAttempts(ipAddress);
+
                     var claims = new List<Claim>
-                {
-                    new Claim(ClaimTypes.Name, user.FirstName + " " + user.LastName),
-                    new Claim(ClaimTypes.Role, user.Role ?? "admin"),
-                    new Claim(ClaimTypes.Email, user.Email),
-                    new Claim(ClaimTypes.NameIdentifier, user.UserId.ToString())
-                };
+                    {
+                        new Claim(ClaimTypes.Name, user.FirstName + " " + user.LastName),
+                        new Claim(ClaimTypes.Role, user.Role ?? "admin"),
+                        new Claim(ClaimTypes.Email, user.Email),
+                        new Claim(ClaimTypes.NameIdentifier, user.UserId.ToString())
+                    };
 
                     var claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
                     var claimsPrincipal = new ClaimsPrincipal(claimsIdentity);
 
                     await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, claimsPrincipal);
 
-                    // Redirigir según el rol
                     if (user.Role == "admin")
                     {
                         return RedirectToPage("/Admin/Index");
@@ -80,27 +96,50 @@ namespace CisternasGAMC.Pages.Login
                         return RedirectToPage("/driver/Index");
                     }
                 }
-
             }
 
+            // Si el inicio de sesión falla, incrementar intentos fallidos
+            IncrementFailedAttempts(ipAddress);
+
             LoginFailed = true;
-            return Page();
+            ModelState.AddModelError(string.Empty, "Credenciales incorrectas. Inténtalo de nuevo.");
+            return Page(); // No cambia la página, solo muestra el error y mantiene los campos llenos.
         }
 
-        // Método POST para el restablecimiento de contraseña
+        private int GetFailedAttempts(string ipAddress)
+        {
+            if (_cache.TryGetValue(ipAddress, out int attempts))
+            {
+                return attempts;
+            }
+            return 0;
+        }
+
+        private void IncrementFailedAttempts(string ipAddress)
+        {
+            var attempts = GetFailedAttempts(ipAddress) + 1;
+            _cache.Set(ipAddress, attempts, TimeSpan.FromMinutes(BlockDurationMinutes));
+        }
+
+        private void ResetFailedAttempts(string ipAddress)
+        {
+            _cache.Remove(ipAddress);
+        }
+
+        // Método para el restablecimiento de contraseña (quedará igual)
         public async Task<IActionResult> OnPostSendPasswordResetAsync(string emailReset)
         {
             var user = await _context.Users.FirstOrDefaultAsync(u => u.Email == emailReset);
             if (user == null)
             {
                 ModelState.AddModelError(string.Empty, "Correo electrónico no encontrado.");
+
                 return Page();
             }
 
             // Generar nueva contraseña
             string nuevaContraseña = GenerarContraseñaAleatoria(10);
 
-            // Actualizar la contraseña (puedes agregar hashing aquí si es necesario)
             user.Password = BCrypt.Net.BCrypt.HashPassword(nuevaContraseña);
             await _context.SaveChangesAsync();
 
@@ -110,7 +149,6 @@ namespace CisternasGAMC.Pages.Login
             return RedirectToPage("/Login/Index", new { successMessage = "Se ha enviado una nueva contraseña a tu correo electrónico." });
         }
 
-        // Método para generar una contraseña aleatoria
         private string GenerarContraseñaAleatoria(int length)
         {
             const string validChars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890";
@@ -129,7 +167,6 @@ namespace CisternasGAMC.Pages.Login
             return result.ToString();
         }
 
-        // Método para enviar la nueva contraseña por correo
         private async Task EnviarCorreoNuevaContraseña(string email, string nuevaContraseña)
         {
             var fromAddress = new MailAddress("davidachagan@gmail.com", "CisternasGAMC");
@@ -173,6 +210,5 @@ namespace CisternasGAMC.Pages.Login
                 }
             }
         }
-
     }
 }

@@ -2308,3 +2308,11 @@ C:\Users\Kiurt\Documents\GitHub\CisternasGAMC\obj\Debug\net8.0\ref\CisternasGAMC
 C:\Users\Kiurt\Documents\GitHub\CisternasGAMC\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
 C:\Users\Kiurt\Documents\GitHub\CisternasGAMC\bin\Debug\net8.0\MailKit.dll
 C:\Users\Kiurt\Documents\GitHub\CisternasGAMC\bin\Debug\net8.0\MimeKit.dll
+C:\Users\Kiurt\Documents\GitHub\CisternasGAMC\bin\Debug\net8.0\ClosedXML.dll
+C:\Users\Kiurt\Documents\GitHub\CisternasGAMC\bin\Debug\net8.0\ClosedXML.Parser.dll
+C:\Users\Kiurt\Documents\GitHub\CisternasGAMC\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\Kiurt\Documents\GitHub\CisternasGAMC\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Kiurt\Documents\GitHub\CisternasGAMC\bin\Debug\net8.0\ExcelNumberFormat.dll
+C:\Users\Kiurt\Documents\GitHub\CisternasGAMC\bin\Debug\net8.0\RBush.dll
+C:\Users\Kiurt\Documents\GitHub\CisternasGAMC\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\Kiurt\Documents\GitHub\CisternasGAMC\bin\Debug\net8.0\System.IO.Packaging.dll

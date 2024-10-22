@@ -133,95 +133,34 @@
                     <p><strong>Nombre:</strong> @User.FindFirst(System.Security.Claims.ClaimTypes.Name)?.Value</p>
                     <p><strong>Correo electrónico:</strong> @User.FindFirst(System.Security.Claims.ClaimTypes.Email)?.Value</p>
                     <p><strong>Rol:</strong> @User.FindFirst(System.Security.Claims.ClaimTypes.Role)?.Value</p>
-                    <button class="btn btn-warning btn-block" data-toggle="modal" data-target="#changePasswordModal" data-dismiss="modal">Cambiar Contraseña</button>
+                    <a href="/login/changePassword" class="btn btn-warning btn-block">Cambiar Contraseña</a>
                     <button class="btn btn-danger btn-block" data-toggle="modal" data-target="#logoutModal" data-dismiss="modal">Cerrar Sesión</button>
                 </div>
             </div>
         </div>
     </div>
 
-    <!-- Modal para cambiar la contraseña -->
-    <div class="modal fade" id="changePasswordModal" tabindex="-1" role="dialog" aria-labelledby="changePasswordModalLabel" aria-hidden="true">
+    
+
+    <!-- Modal de confirmación de logout -->
+    <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="logoutModalLabel" aria-hidden="true">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title" id="changePasswordModalLabel">Cambiar Contraseña</h5>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Cerrar">
+                    <h5 class="modal-title" id="logoutModalLabel">Confirmar Logout</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                     </button>
                 </div>
                 <div class="modal-body">
-                    <form method="post" asp-page-handler="ChangePassword" asp-page="/Login/changePassword">
-                        @Html.AntiForgeryToken()
-
-                        <!-- Campo para la contraseña antigua -->
-                        <div class="form-group">
-                            <label for="oldPassword">Contraseña Antigua</label>
-                            <input type="password" class="form-control" id="oldPassword" name="OldPassword" placeholder="Introduce tu contraseña actual" required>
-                        </div>
-
-                        <!-- Campo para la nueva contraseña -->
-                        <div class="form-group">
-                            <label for="newPassword">Nueva Contraseña</label>
-                            <input type="password" class="form-control" id="newPassword" name="NewPassword" placeholder="Introduce tu nueva contraseña" required>
-                        </div>
-
-                        <!-- Campo para confirmar la nueva contraseña -->
-                        <div class="form-group">
-                            <label for="confirmNewPassword">Confirmar Nueva Contraseña</label>
-                            <input type="password" class="form-control" id="confirmNewPassword" name="ConfirmNewPassword" placeholder="Repite tu nueva contraseña" required>
-                        </div>
-
-                        <!-- Botón de envío para cambiar la contraseña -->
-                        <button type="submit" class="btn btn-primary btn-block">Cambiar Contraseña</button>
-                    </form>
+                    ¿Seguro que deseas cerrar sesión?
                 </div>
-            </div>
-        </div>
-    </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
 
-    <!-- Modal para cambiar la contraseña -->
-    <div class="modal fade" id="changePasswordModal" tabindex="-1" role="dialog" aria-labelledby="changePasswordModalLabel" aria-hidden="true">
-        <div class="modal-dialog" role="document">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="changePasswordModalLabel">Cambiar Contraseña</h5>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Cerrar">
-                        <span aria-hidden="true">&times;</span>
-                    </button>
-                </div>
-                <div class="modal-body">
-                    <!-- Mensajes de error -->
-                    @if (TempData["Message"] != null)
-                    {
-                        <div class="alert alert-danger">
-                            @TempData["Message"]
-                        </div>
-                    }
-
-                    <form method="post" asp-page-handler="ChangePassword" asp-page="/Login/changePassword">
-                        @Html.AntiForgeryToken()
-
-                        <!-- Campo para la contraseña antigua -->
-                        <div class="form-group">
-                            <label for="oldPassword">Contraseña Antigua</label>
-                            <input type="password" class="form-control" id="oldPassword" name="OldPassword" placeholder="Introduce tu contraseña actual" required>
-                        </div>
-
-                        <!-- Campo para la nueva contraseña -->
-                        <div class="form-group">
-                            <label for="newPassword">Nueva Contraseña</label>
-                            <input type="password" class="form-control" id="newPassword" name="NewPassword" placeholder="Introduce tu nueva contraseña" required>
-                        </div>
-
-                        <!-- Campo para confirmar la nueva contraseña -->
-                        <div class="form-group">
-                            <label for="confirmNewPassword">Confirmar Nueva Contraseña</label>
-                            <input type="password" class="form-control" id="confirmNewPassword" name="ConfirmNewPassword" placeholder="Repite tu nueva contraseña" required>
-                        </div>
-
-                        <!-- Botón de envío para cambiar la contraseña -->
-                        <button type="submit" class="btn btn-primary btn-block">Cambiar Contraseña</button>
+                    <!-- Formulario de logout -->
+                    <form method="post" asp-page="/Login/Logout">
+                        <button type="submit" class="btn btn-danger">Cerrar sesión</button>
                     </form>
                 </div>
             </div>

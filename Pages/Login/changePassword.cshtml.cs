@@ -6,9 +6,11 @@ using CisternasGAMC.Data;
 using BCrypt.Net;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authorization;
 
 namespace CisternasGAMC.Pages.Login
 {
+    [Authorize(Roles = "admin")]
     public class ChangePasswordModel : PageModel
     {
         private readonly ApplicationDbContext _context;
