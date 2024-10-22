@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kiurt\\Downloads\\CisternasGAMC\\CisternasGAMC\\CisternasGAMC\\CisternasGAMC.csproj": {}
+    "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\CisternasGAMC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kiurt\\Downloads\\CisternasGAMC\\CisternasGAMC\\CisternasGAMC\\CisternasGAMC.csproj": {
+    "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\CisternasGAMC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kiurt\\Downloads\\CisternasGAMC\\CisternasGAMC\\CisternasGAMC\\CisternasGAMC.csproj",
+        "projectUniqueName": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\CisternasGAMC.csproj",
         "projectName": "CisternasGAMC",
-        "projectPath": "C:\\Users\\Kiurt\\Downloads\\CisternasGAMC\\CisternasGAMC\\CisternasGAMC\\CisternasGAMC.csproj",
+        "projectPath": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\CisternasGAMC.csproj",
         "packagesPath": "C:\\Users\\Kiurt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kiurt\\Downloads\\CisternasGAMC\\CisternasGAMC\\CisternasGAMC\\obj\\",
+        "outputPath": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kiurt\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -50,27 +50,35 @@
               "target": "Package",
               "version": "[4.0.3, )"
             },
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.8, )"
+              "version": "[8.0.10, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.8, )"
+              "version": "[8.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.8, )"
+              "version": "[8.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.8, )"
+              "version": "[8.0.10, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[8.0.5, )"
+              "version": "[8.0.6, )"
+            },
+            "WebPush": {
+              "target": "Package",
+              "version": "[1.0.12, )"
             }
           },
           "imports": [

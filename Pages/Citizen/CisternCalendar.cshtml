@@ -64,3 +64,32 @@
         </div>
     </section>
 </div>
+
+<!-- Script para mostrar la notificación -->
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        // Verificar si el navegador soporta notificaciones
+        if (!("Notification" in window)) {
+            console.error("Este navegador no soporta notificaciones.");
+        } else if (Notification.permission === "granted") {
+            // Si el permiso fue otorgado previamente, mostrar la notificación
+            mostrarNotificacion();
+        } else if (Notification.permission !== "denied") {
+            // Solicitar permiso para enviar notificaciones
+            Notification.requestPermission().then(permission => {
+                if (permission === "granted") {
+                    mostrarNotificacion();
+                }
+            });
+        }
+
+        // Función para mostrar la notificación
+        function mostrarNotificacion() {
+            const options = {
+                body: "Bienvenido a la página de entregas de agua.",
+                icon: "/path/to/icon.png" // Puedes cambiar el icono
+            };
+            new Notification("Hola", options);
+        }
+    });
+</script>

@@ -1,4 +1,4 @@
-﻿@page
+﻿@page "{waterDeliveryId:int?}"
 @model CisternasGAMC.Pages.Driver.DeliverModel
 @{
     Layout = "_Layout";
@@ -36,25 +36,11 @@
     <div class="form-container">
         <h2>@Model.WaterDelivery?.Otb?.Name</h2>
 
+        <!-- Formulario para registrar llegada a la OTB -->
         <form method="post" asp-page-handler="SetArrival">
             <input type="hidden" name="waterDeliveryId" value="@Model.WaterDeliveryId" />
             <button type="submit" class="btn btn-primary">
                 <i class="bi bi-geo-alt-fill"></i> Llegada a la OTB
-            </button>
-        </form>
-
-        <hr />
-
-        <form method="post" asp-page-handler="Deliver">
-            <input type="hidden" name="waterDeliveryId" value="@Model.WaterDeliveryId" />
-            <div class="mb-4">
-                <label for="deliveredAmount" class="form-label">Monto Generado</label>
-                <input type="number" class="form-control" id="deliveredAmount" name="deliveredAmount"
-                       placeholder="Ingrese el monto generado" step="0.01" required min="0" />
-            </div>
-
-            <button type="submit" class="btn btn-primary">
-                <i class="bi bi-check-circle-fill"></i> Terminar Entrega
             </button>
         </form>
     </div>

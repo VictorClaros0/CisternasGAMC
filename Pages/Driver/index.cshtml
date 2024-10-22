@@ -7,6 +7,7 @@
 <div class="container d-flex align-items-center justify-content-center">
     <div class="form-section text-center" style="width: 100%; max-width: 600px;">
         <h2 class="mb-4">Selecciona la OTB</h2>
+        <!-- Formulario que redirige a la página de entrega (Deliver) con el waterDeliveryId -->
         <form method="get" asp-page="/Driver/Deliver">
             <select id="otb" name="waterDeliveryId" class="form-control mb-3" style="font-size: 1.25rem;">
                 @foreach (var waterDelivery in Model.waterDeliveries)

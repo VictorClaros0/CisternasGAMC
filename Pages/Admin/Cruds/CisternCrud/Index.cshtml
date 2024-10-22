@@ -1,59 +1,54 @@
 ﻿@page
 @model CisternasGAMC.Pages.Admin.Cruds.CisternCrud.IndexModel
-
 @{
     ViewData["Title"] = "Índice de Cisternas";
-
     Layout = "_LayoutAdmin"; // AdminLTE Layout
 }
 
-<section class="content-header">
-    <h1>Cisternas</h1>
-</section>
+<div class="container-fluid">
+    <h1 class="mt-4">Cisternas</h1>
 
-<section class="content">
-    <div class="box">
-        <div class="box-header with-border">
-            <a asp-page="Create" class="btn btn-primary">Crear Nueva Cisterna</a>
+    <div class="card mb-4 shadow-sm">
+        <div class="card-header d-flex justify-content-between align-items-center">
+            <h5 class="mb-0">Lista de Cisternas</h5>
+            <a asp-page="Create" class="btn btn-primary btn-sm">Crear Nueva Cisterna</a>
         </div>
-        <div class="box-body">
-            <table class="table table-bordered table-hover">
-                <thead>
-                    <tr>
-                        <th>Estado</th>
-                        <th>Número de Placa</th>
-                        <th>Capacidad</th>
-                        <th>Acciones</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    @foreach (var item in Model.Cistern)
-
-                    {
-
-                        var estado = item.Status switch
-
-                        {
-                            1 => "Activo",
-                            2 => "Mantenimiento",
-                            3 => "Otro",
-                            _ => "Desconocido"
-
-                        };
-
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-bordered table-striped table-hover">
+                    <thead class="thead-dark">
                         <tr>
-                            <td>@estado</td>
-                            <td>@Html.DisplayFor(modelItem => item.PlateNumber)</td>
-                            <td>@Html.DisplayFor(modelItem => item.Capacity)</td>
-                            <td>
-                                <a asp-page="./Edit" asp-route-id="@item.CisternId" class="btn btn-xs btn-warning">Editar</a>
-                                <a asp-page="./Details" asp-route-id="@item.CisternId" class="btn btn-xs btn-info">Detalles</a>
-                                <a asp-page="./Delete" asp-route-id="@item.CisternId" class="btn btn-xs btn-danger">Eliminar</a>
-                            </td>
+                            <th>Estado</th>
+                            <th>Número de Placa</th>
+                            <th>Capacidad</th>
+                            <th>Acciones</th>
                         </tr>
-                    }
-                </tbody>
-            </table>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.Cistern)
+                        {
+                            var estado = item.Status switch
+                            {
+                                1 => "Activo",
+                                2 => "Mantenimiento",
+                                3 => "Otro",
+                                _ => "Desconocido"
+                            };
+
+                            <tr>
+                                <td>@estado</td>
+                                <td>@Html.DisplayFor(modelItem => item.PlateNumber)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Capacity)</td>
+                                <td>
+                                    <a asp-page="./Edit" asp-route-id="@item.CisternId" class="btn btn-warning btn-sm">Editar</a>
+                                    <a asp-page="./Details" asp-route-id="@item.CisternId" class="btn btn-info btn-sm">Detalles</a>
+                                    <a asp-page="./Delete" asp-route-id="@item.CisternId" class="btn btn-danger btn-sm">Eliminar</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
         </div>
     </div>
-</section>
+</div>

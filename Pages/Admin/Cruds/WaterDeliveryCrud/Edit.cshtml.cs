@@ -91,12 +91,14 @@ namespace CisternasGAMC.Pages.Admin.Cruds.WaterDeliveryCrud
                 .ToList();
 
             Drivers = _context.Users
+                .Where(u => u.Role == "driver")  // Filtro aplicado a usuarios con el rol de "driver"
                 .Select(u => new SelectListItem
                 {
-                    Value = u.UserId.ToString(),
-                    Text = $"{u.FirstName} {u.LastName}"
+                    Value = u.UserId.ToString(),  // Asigna el UserId como valor
+                    Text = $"{u.FirstName} {u.LastName}"  // Asigna el nombre completo como texto
                 })
                 .ToList();
+
 
             Otbs = _context.Otbs
                 .Select(o => new SelectListItem

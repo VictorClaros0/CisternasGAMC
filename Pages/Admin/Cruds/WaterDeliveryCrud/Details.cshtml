@@ -45,12 +45,6 @@
 
                         })
                     </dd>
-                    {
-                    1 => "Programada",
-                    2 => "En Proceso",
-                    3 => "Finalizada",
-                    _ => "Desconocido"
-                    };
                     <dt class="col-sm-4">Fecha de Llegada</dt>
                     <dd class="col-sm-8">@Model.WaterDelivery.ArrivalDate?.ToString("dd/MM/yyyy HH:mm") ?? "N/A"</dd>
 

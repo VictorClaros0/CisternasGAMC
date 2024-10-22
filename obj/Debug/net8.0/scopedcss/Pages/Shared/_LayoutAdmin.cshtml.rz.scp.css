@@ -1,76 +1,43 @@
-/* Configuración de estilos para el proyecto - más detalles en https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification */
-
-/* Estilo del enlace de la marca de la barra de navegación */
+/* Estilos del logo de la marca */
 a.navbar-brand[b-xfzi5uhxr8] {
     white-space: normal;
     text-align: center;
-    word-break: break-word; /* Cambiado de 'break-all' a 'break-word' para evitar romper palabras */
+    word-break: break-word; /* Para no romper palabras, sino hacer saltos de línea */
 }
 
 /* Estilo general para los enlaces */
 a[b-xfzi5uhxr8] {
     color: #0077cc;
+    text-decoration: none;
 }
 
-/* Estilo de los botones primarios */
-.btn-primary[b-xfzi5uhxr8] {
-    color: #fff;
-    background-color: #1b6ec2;
-    border-color: #1861ac;
-}
-
-/* Estilo para enlaces activos dentro de la navegación con pills */
+/* Estilo del menú de navegación activo */
 .nav-pills .nav-link.active[b-xfzi5uhxr8], .nav-pills .show > .nav-link[b-xfzi5uhxr8] {
     color: #fff;
     background-color: #1b6ec2;
-    border-color: #1861ac;
-}
-
-/* Estilo para las líneas superior e inferior */
-.border-top[b-xfzi5uhxr8] {
-    border-top: 1px solid #e5e5e5;
-}
-
-.border-bottom[b-xfzi5uhxr8] {
-    border-bottom: 1px solid #e5e5e5;
-}
-
-/* Sombra para elementos con la clase 'box-shadow' */
-.box-shadow[b-xfzi5uhxr8] {
-    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
-}
-
-/* Estilo para el botón de aceptación de políticas */
-button.accept-policy[b-xfzi5uhxr8] {
-    font-size: 1rem;
-    line-height: inherit;
 }
 
 /* Estilo del pie de página */
 .footer[b-xfzi5uhxr8] {
-    position: relative; /* Cambiado de 'absolute' a 'relative' para evitar que se superponga con el contenido */
-    bottom: 0;
-    width: 100%;
-    white-space: nowrap;
-    line-height: 60px;
-    text-align: center; /* Centrar el contenido del footer */
-    background: #f8f9fa; /* Añadido un fondo claro para destacar */
+    background: #f8f9fa;
+    padding: 10px 20px;
+    text-align: center;
+    border-top: 1px solid #e5e5e5;
+    position: relative;
 }
 
-/* Ajustes de altura para html y body */
-html[b-xfzi5uhxr8], body[b-xfzi5uhxr8] {
-    height: 100%;
-    margin: 0; /* Eliminado el margen por defecto */
-}
+    /* Mejora de la visibilidad en el pie de página */
+    .footer b[b-xfzi5uhxr8] {
+        font-weight: bold;
+    }
 
-/* Contenedor principal */
+/* Asegura que el contenido principal ocupe el espacio adecuado */
 .wrapper[b-xfzi5uhxr8] {
     display: flex;
     flex-direction: column;
-    min-height: 100vh; /* Usar 'min-height' para asegurar que cubra la pantalla completa */
+    min-height: 100vh;
 }
 
-/* Contenido del contenedor */
 .content-wrapper[b-xfzi5uhxr8] {
     flex: 1;
 }

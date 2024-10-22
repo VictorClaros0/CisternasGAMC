@@ -40,9 +40,7 @@
                 <a href="#">Contacto</a>
 
                 @if (User.Identity.IsAuthenticated)
-
                 {
-                    // Mostrar enlaces específicos según el rol del usuario
                     if (User.IsInRole("admin"))
                     {
                         <a href="/Admin/Index" class="nav-link text-white pe-3">Panel Admin</a>
@@ -52,17 +50,11 @@
                         <a href="/driver/Index" class="nav-link text-white pe-3">Panel Driver</a>
                     }
 
-
-
-                    // Enlace para cerrar sesión
-                    <a class="nav-link text-white pe-3" asp-area="" asp-page="/Login/logout">Logout</a>
+                    <!-- Botón que activa el modal de logout -->
+                    <a href="#" class="nav-link text-white pe-3" data-toggle="modal" data-target="#logoutModal">Logout</a>
                 }
-
                 else
-
                 {
-
-                    // Enlace para iniciar sesión si no está autenticado
                     <a class="nav-link text-white pe-3" asp-area="" asp-page="/Login/Index">Login</a>
                 }
             </div>
@@ -70,6 +62,32 @@
             <strong>&copy; 2024 - CisternasGAMC</strong> - Todos los derechos reservados.
             <div><b>Versión</b> 1.0.0</div>
         </footer>
+    </div>
+
+    <!-- Modal de confirmación de logout -->
+    <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="logoutModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="logoutModalLabel">Confirmar Logout</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    ¿Seguro que deseas cerrar sesión?
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+                    <!-- Formulario de logout -->
+                    <form method="post" asp-page="/Login/Logout">
+                        <button type="submit" class="btn btn-danger">Cerrar sesión</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
 
     </div>
 
