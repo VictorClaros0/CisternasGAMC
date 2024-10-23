@@ -1,18 +1,24 @@
-﻿body {
+﻿/*body {
     background-image: url('https://latinosanbolivia2022.com/wp-content/uploads/2022/05/Vista_Aerea_del_Cristo_de_la_Concordia.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center top;
     background-color: #f4f4f4;
-    background-attachment: fixed;
-}
+    background-attachment: fixed;*/
+    /* Filtro azul y ajuste de brillo */
+/*}
 
 html, body {
     min-height: 100%;
 }
+}
+
+html, body {
+    min-height: 100%;
+}*/
 
 /* Card styling */
-.otb-card {
+/*.otb-card {
     transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
     border-radius: 10px;
     overflow: hidden;
@@ -35,10 +41,10 @@ html, body {
     font-size: 1rem;
     color: #333;
     text-align: center;
-}
+}*/
 
 /* Responsive improvements */
-@media screen and (max-width: 768px) {
+/*@media screen and (max-width: 768px) {
     .card-title {
         font-size: 1.3rem;
     }
@@ -46,4 +52,4 @@ html, body {
     .card-text {
         font-size: 0.9rem;
     }
-}
+}*/
