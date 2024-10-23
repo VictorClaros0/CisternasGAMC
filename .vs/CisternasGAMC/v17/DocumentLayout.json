@@ -454,9 +454,10 @@
               "RelativeDocumentMoniker": "Pages\\Login\\changePassword.cshtml",
               "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Login\\changePassword.cshtml",
               "RelativeToolTip": "Pages\\Login\\changePassword.cshtml",
-              "ViewState": "AgIAAC8AAAAAAAAAAADwv0cAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwEcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-22T14:43:26.883Z"
+              "WhenOpened": "2024-10-22T14:43:26.883Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -466,7 +467,7 @@
               "RelativeDocumentMoniker": "Pages\\Login\\changePassword.cshtml.cs",
               "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Login\\changePassword.cshtml.cs",
               "RelativeToolTip": "Pages\\Login\\changePassword.cshtml.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAwAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T14:46:07.032Z",
               "EditorCaption": ""

@@ -420,32 +420,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 385,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Index.cshtml",
-              "ViewState": "AgIAACsAAAAAAAAAAADwv0MAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-07T23:11:48.085Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Logout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Login\\Logout.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Login\\Logout.cshtml",
-              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Login\\Logout.cshtml",
-              "RelativeToolTip": "Pages\\Login\\Logout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-22T04:52:02.398Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -476,11 +452,12 @@
               "Title": "changePassword.cshtml",
               "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Login\\changePassword.cshtml",
               "RelativeDocumentMoniker": "Pages\\Login\\changePassword.cshtml",
-              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Login\\changePassword.cshtml",
-              "RelativeToolTip": "Pages\\Login\\changePassword.cshtml",
-              "ViewState": "AgIAAC8AAAAAAAAAAADwv0cAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Login\\changePassword.cshtml*",
+              "RelativeToolTip": "Pages\\Login\\changePassword.cshtml*",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwEcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-22T14:43:26.883Z"
+              "WhenOpened": "2024-10-22T14:43:26.883Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -490,10 +467,34 @@
               "RelativeDocumentMoniker": "Pages\\Login\\changePassword.cshtml.cs",
               "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Login\\changePassword.cshtml.cs*",
               "RelativeToolTip": "Pages\\Login\\changePassword.cshtml.cs*",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAwAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T14:46:07.032Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Login\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Login\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Login\\Logout.cshtml",
+              "RelativeToolTip": "Pages\\Login\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T04:52:02.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Cruds\\WaterDeliveryCrud\\Index.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAADwv0MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T23:11:48.085Z"
             },
             {
               "$type": "Document",

@@ -7,6 +7,7 @@ using BCrypt.Net;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authorization;
+using System.ComponentModel.DataAnnotations;
 
 namespace CisternasGAMC.Pages.Login
 {
@@ -25,16 +26,25 @@ namespace CisternasGAMC.Pages.Login
 
         public class PasswordChangeModel
         {
+            [Required(ErrorMessage = "La contraseña antigua es obligatoria.")]
             public string OldPassword { get; set; }
+
+            [Required(ErrorMessage = "La nueva contraseña es obligatoria.")]
+            [StringLength(100, MinimumLength = 6, ErrorMessage = "La nueva contraseña debe tener al menos 6 caracteres.")]
+            [RegularExpression(@"^(?=.*[0-9]).+$", ErrorMessage = "La nueva contraseña debe contener al menos un número.")]
             public string NewPassword { get; set; }
+
+            [Required(ErrorMessage = "La confirmación de la nueva contraseña es obligatoria.")]
+            [Compare("NewPassword", ErrorMessage = "La confirmación no coincide con la nueva contraseña.")]
             public string ConfirmNewPassword { get; set; }
         }
+
         public async Task<IActionResult> OnPostChangePasswordAsync()
         {
             if (!ModelState.IsValid)
             {
                 TempData["Message"] = "El formulario no es válido.";
-                return RedirectToPage("/Admin/index"); // O a la página que estés manejando.
+                return Page();
             }
 
             var userEmail = User.FindFirst(System.Security.Claims.ClaimTypes.Email)?.Value;
@@ -42,16 +52,14 @@ namespace CisternasGAMC.Pages.Login
 
             if (user == null || !BCrypt.Net.BCrypt.Verify(ChangePassword.OldPassword, user.Password))
             {
-                TempData["Message"] = "La contraseña antigua es incorrecta.";
-                TempData["ErrorField"] = "OldPassword"; // Indicamos cuál campo tiene el error.
-                return RedirectToPage("/Admin/index"); // O a la página que estés manejando.
+                ModelState.AddModelError("ChangePassword.OldPassword", "La contraseña antigua es incorrecta.");
+                return Page();
             }
 
             if (ChangePassword.NewPassword != ChangePassword.ConfirmNewPassword)
             {
-                TempData["Message"] = "Las nuevas contraseñas no coinciden.";
-                TempData["ErrorField"] = "NewPassword"; // Indicamos cuál campo tiene el error.
-                return RedirectToPage("/Admin/index"); // O a la página que estés manejando.
+                ModelState.AddModelError("ChangePassword.ConfirmNewPassword", "Las nuevas contraseñas no coinciden.");
+                return Page();
             }
 
             // Encriptamos y guardamos la nueva contraseña
@@ -63,10 +71,7 @@ namespace CisternasGAMC.Pages.Login
             await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
 
             TempData["Message"] = "Contraseña cambiada con éxito.";
-            return RedirectToPage("/Admin/index"); // O a la página que estés manejando.
+            return RedirectToPage("/Index");
         }
-
-
-
     }
 }
