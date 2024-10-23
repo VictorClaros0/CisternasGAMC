@@ -1,5 +1,5 @@
 ﻿@page
-@model IndexModel
+@model CisternasGAMC.Pages.IndexModel
 @{
     Layout = "_Layout";
 }
@@ -45,7 +45,7 @@
 </div>
 
 <script>
-     // Animación al hacer scroll: Cargar las tarjetas cuando entren y salgan de la vista
+    // Animación al hacer scroll: Cargar las tarjetas cuando entren y salgan de la vista
     document.addEventListener("DOMContentLoaded", function () {
         const otbCards = document.querySelectorAll(".otb-card");
 
@@ -68,7 +68,7 @@
         otbCards.forEach(card => observer.observe(card));
     });
 
-     // Filtrar las tarjetas según el texto del buscador
+    // Filtrar las tarjetas según el texto del buscador
     function filterOtbs() {
         const input = document.getElementById("searchBox").value.toLowerCase();
         const cards = document.querySelectorAll(".otb-card");
@@ -91,16 +91,19 @@
         });
     }
 
+    // Valida la entrada: no permite números, caracteres especiales, ni espacios al inicio o consecutivos
+    function validateInput() {
+        const searchBox = document.getElementById("searchBox");
+        const invalidChars = /[^a-zA-Z\s]/g; // Solo permite letras y espacios
 
-     // Valida la entrada: no permite números, caracteres especiales, ni espacios al inicio o consecutivos
-     function validateInput() {
-         const searchBox = document.getElementById("searchBox");
-         const invalidChars = /[^a-zA-Z\s]/g; // Solo permite letras y espacios
+        searchBox.value = searchBox.value
+            .replace(invalidChars, '')         // Elimina caracteres especiales y números
+            .replace(/^\s+/g, '')              // Elimina espacios al inicio
+            .replace(/\s{2,}/g, ' ');          // Reemplaza múltiples espacios por uno
+    }
 
-         searchBox.value = searchBox.value
-             .replace(invalidChars, '')         // Elimina caracteres especiales y números
-             .replace(/^\s+/g, '')              // Elimina espacios al inicio
-             .replace(/\s{2,}/g, ' ');          // Reemplaza múltiples espacios por uno
-     }
+    // Redirige a la página de detalles con el ID de la OTB
+    function goToDetails(otbId) {
+        window.location.href = `/Citizen/CisternCalendar?SelectedOtb=${otbId}`;
+    }
 </script>
-

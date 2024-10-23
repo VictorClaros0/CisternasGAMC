@@ -3,12 +3,18 @@
 @{
     Layout = "_Layout";
 }
-<link href="~/css/Calendar.css" rel="stylesheet" />
+@section Styles {
+    <link rel="stylesheet" href="~/css/Calendar.css" />
+}
 
 <!-- Main container -->
 <div class="container mt-5">
     <section class="text-center">
-        <h1 class="display-4 mb-3 text-primary">Entregas de Agua para @Model.NombreOTB</h1>
+        <h1 class="display-4 mb-3 text-primary">
+            <strong>Entregas de Agua</strong>
+            <span class="secondary-text">para @Model.NombreOTB</span>
+        </h1>
+        <p class="lead">Consulta el estado de las entregas de agua programadas para tu comunidad.</p>
 
         <!-- Delivery Cards -->
         <div id="deliveryContainer" class="row mt-5">
@@ -18,7 +24,7 @@
                 .Where(e => e.DayOfWeek == day.ToString())
                 .ToList();
 
-                @if (deliveriesForDay.Any()) // Only render if there are deliveries for this day
+                @if (deliveriesForDay.Any()) // Mostrar solo si hay entregas para ese día
                 {
                     <div class="col-lg-4 col-md-6 mb-4">
                         @foreach (var timeSlot in new[] { "En la Mañana", "En la Tarde", "En la Noche" })
@@ -35,26 +41,10 @@
                                         <!-- Card Body with Flexbox to center the content -->
                                         <div class="card-body d-flex flex-column align-items-center justify-content-center">
                                             <h5 class="card-title">@Model.GetSpanishDayName(day)</h5>
-                                            <p>
-                                                La Entrega:
-                                                @switch (evnt.Title)
-                                                {
-                                                    case "1":
-                                                        <span>está programada</span>
-                                                        ;
-                                                        break;
-                                                    case "2":
-                                                        <span>está en curso, sal a buscar la cisterna</span>
-                                                        ;
-                                                        break;
-                                                    case "3":
-                                                        <span>ya terminó</span>
-                                                        ;
-                                                        break;
-                                                }
-                                            </p>
+                                            <img src="~/images/status/@($"{evnt.Title}.png")" alt="Estado de Entrega" class="status-icon mb-3" />
                                         </div>
                                     </div>
+
                                 }
                             }
                         }
@@ -65,31 +55,25 @@
     </section>
 </div>
 
-<!-- Script para mostrar la notificación -->
 <script>
+    // Animación al hacer scroll: Cargar las tarjetas cuando entren y salgan de la vista
     document.addEventListener("DOMContentLoaded", function () {
-        // Verificar si el navegador soporta notificaciones
-        if (!("Notification" in window)) {
-            console.error("Este navegador no soporta notificaciones.");
-        } else if (Notification.permission === "granted") {
-            // Si el permiso fue otorgado previamente, mostrar la notificación
-            mostrarNotificacion();
-        } else if (Notification.permission !== "denied") {
-            // Solicitar permiso para enviar notificaciones
-            Notification.requestPermission().then(permission => {
-                if (permission === "granted") {
-                    mostrarNotificacion();
+        const otbCards = document.querySelectorAll(".otb-card");
+
+        const observer = new IntersectionObserver(entries => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('show');
+                    entry.target.classList.remove('hide-down');
+                } else {
+                    entry.target.classList.remove('show');
+                    entry.target.classList.add('hide-down');
                 }
             });
-        }
+        }, {
+            threshold: 0.1
+        });
 
-        // Función para mostrar la notificación
-        function mostrarNotificacion() {
-            const options = {
-                body: "Bienvenido a la página de entregas de agua.",
-                icon: "/path/to/icon.png" // Puedes cambiar el icono
-            };
-            new Notification("Hola", options);
-        }
+        otbCards.forEach(card => observer.observe(card));
     });
 </script>
