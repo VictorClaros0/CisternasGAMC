@@ -11,15 +11,19 @@
     <link rel="stylesheet" href="@Url.Content("~/css/Calendar.css")" asp-append-version="true"> <!-- Opcional -->
     <link rel="stylesheet" href="@Url.Content("~/CisternasGAMC.styles.css")" asp-append-version="true" />
     <link rel="stylesheet" href="@Url.Content("~/css/DeliverStyle.css")" asp-append-version="true">
-    <link rel="stylesheet" href="~/css/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Josefin+Sans&family=Lilita+One&family=Marko+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="@Url.Content("~/css/Fondos.css")" asp-append-version="true">
+    @RenderSection("Styles", required: false)
 </head>
 <body>
     <div class="wrapper">
         <!-- Navbar -->
         <nav class="navbar navbar-expand navbar-dark">
             <a href="@Url.Page("/Index")" class="navbar-brand">
-                <img src="@Url.Content("~/images/Logos/LogoCochabamba.png")" alt="Logo CisternasGAMC" class="brand-image img-circle elevation-3" style="max-height: 30px; opacity: .8">
-                <span class="brand-text font-weight-light">CisternasGAMC</span>
+                <img src="@Url.Content("~/images/Logos/LogoCochabamba.png")" alt="Logo CisternasGAMC" class="brand-image img-circle elevation-3" style="max-height: 40px; opacity: .8">
+                <span class="brand-text font-weight-light" style="padding-left:20px">CisternasGAMC</span>
             </a>
         </nav>
 

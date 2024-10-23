@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\CisternasGAMC.csproj": {}
+    "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoCisternas\\CisternasGAMC\\CisternasGAMC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\CisternasGAMC.csproj": {
+    "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoCisternas\\CisternasGAMC\\CisternasGAMC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\CisternasGAMC.csproj",
+        "projectUniqueName": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoCisternas\\CisternasGAMC\\CisternasGAMC.csproj",
         "projectName": "CisternasGAMC",
-        "projectPath": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\CisternasGAMC.csproj",
-        "packagesPath": "C:\\Users\\Kiurt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\obj\\",
+        "projectPath": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoCisternas\\CisternasGAMC\\CisternasGAMC.csproj",
+        "packagesPath": "C:\\Users\\ManuelDavidMonegroVa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\ProyectoCisternas\\CisternasGAMC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kiurt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ManuelDavidMonegroVa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -104,7 +104,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
