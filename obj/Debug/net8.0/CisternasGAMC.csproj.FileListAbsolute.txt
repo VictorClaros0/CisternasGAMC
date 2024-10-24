@@ -2595,3 +2595,4 @@ C:\Users\ManuelDavidMonegroVa\Universidad\ProyectoCisternas\CisternasGAMC\obj\De
 C:\Users\ManuelDavidMonegroVa\Universidad\ProyectoCisternas\CisternasGAMC\obj\Debug\net8.0\CisternasGAMC.pdb
 C:\Users\ManuelDavidMonegroVa\Universidad\ProyectoCisternas\CisternasGAMC\obj\Debug\net8.0\CisternasGAMC.genruntimeconfig.cache
 C:\Users\ManuelDavidMonegroVa\Universidad\ProyectoCisternas\CisternasGAMC\obj\Debug\net8.0\ref\CisternasGAMC.dll
+C:\Users\Kiurt\Documents\GitHub\CisternasGAMC\obj\Debug\net8.0\scopedcss\Pages\Shared\_LayoutDriver.cshtml.rz.scp.css

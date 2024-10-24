@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\Calendar.css"
     },
     {
+      "Id": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\wwwroot\\css\\Citizen\\HomeAnimation.css",
+      "PackagePath": "staticwebassets\\css\\Citizen\\HomeAnimation.css"
+    },
+    {
       "Id": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\wwwroot\\css\\DeliveryStyle.css",
       "PackagePath": "staticwebassets\\css\\DeliveryStyle.css"
     },
@@ -243,6 +247,10 @@
     {
       "Id": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\wwwroot\\js\\demo.js",
       "PackagePath": "staticwebassets\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\wwwroot\\js\\home.js",
+      "PackagePath": "staticwebassets\\js\\home.js"
     },
     {
       "Id": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\wwwroot\\js\\pages\\dashboard.js",

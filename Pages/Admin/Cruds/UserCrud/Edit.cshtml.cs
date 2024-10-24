@@ -16,7 +16,7 @@ namespace CisternasGAMC.Pages.Admin.Cruds.UserCrud
     public class EditModel : PageModel
     {
         private readonly CisternasGAMC.Data.ApplicationDbContext _context;
-
+        
         public EditModel(CisternasGAMC.Data.ApplicationDbContext context)
         {
             _context = context;
@@ -49,7 +49,7 @@ namespace CisternasGAMC.Pages.Admin.Cruds.UserCrud
             {
                 return Page();
             }
-
+            User.Password = BCrypt.Net.BCrypt.HashPassword(User.Password);
             _context.Attach(User).State = EntityState.Modified;
 
             try

@@ -61,7 +61,8 @@ namespace CisternasGAMC.Pages.Login
 
             if (failedAttempts >= MaxFailedAttempts)
             {
-                ModelState.AddModelError(string.Empty, $"Has superado el número máximo de {MaxFailedAttempts} intentos fallidos. Intenta nuevamente en {BlockDurationMinutes} minutos.");
+                ViewData["Message"] = $"Has superado el número máximo de {MaxFailedAttempts} intentos fallidos. Intenta nuevamente en {BlockDurationMinutes} minutos.";
+
                 return Page(); // Regresa a la página sin borrar campos
             }
 

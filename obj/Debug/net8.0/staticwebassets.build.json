@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Z0Avdrgt5/5JcxfWg+0v4TltnnO1bPFDGIr5oexE+C0=",
+  "Hash": "D4lPPL3JADUj+77nzPD8waadeancttkLiENoZQIiKVw=",
   "Source": "CisternasGAMC",
   "BasePath": "_content/CisternasGAMC",
   "Mode": "Default",
@@ -606,6 +606,25 @@
       "OriginalItemSpec": "wwwroot\\css\\Calendar.css"
     },
     {
+      "Identity": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\wwwroot\\css\\Citizen\\HomeAnimation.css",
+      "SourceId": "CisternasGAMC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\wwwroot\\",
+      "BasePath": "_content/CisternasGAMC",
+      "RelativePath": "css/Citizen/HomeAnimation.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Citizen\\HomeAnimation.css"
+    },
+    {
       "Identity": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\wwwroot\\css\\DeliveryStyle.css",
       "SourceId": "CisternasGAMC",
       "SourceType": "Discovered",
@@ -1193,6 +1212,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\demo.js"
+    },
+    {
+      "Identity": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\wwwroot\\js\\home.js",
+      "SourceId": "CisternasGAMC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\wwwroot\\",
+      "BasePath": "_content/CisternasGAMC",
+      "RelativePath": "js/home.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\home.js"
     },
     {
       "Identity": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\wwwroot\\js\\pages\\dashboard.js",
