@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\CisternasGAMC.csproj": {}
+    "D:\\CisternasGAMC\\CisternasGAMC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\CisternasGAMC.csproj": {
+    "D:\\CisternasGAMC\\CisternasGAMC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\CisternasGAMC.csproj",
+        "projectUniqueName": "D:\\CisternasGAMC\\CisternasGAMC.csproj",
         "projectName": "CisternasGAMC",
-        "projectPath": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\CisternasGAMC.csproj",
-        "packagesPath": "C:\\Users\\Kiurt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kiurt\\Documents\\GitHub\\CisternasGAMC\\obj\\",
+        "projectPath": "D:\\CisternasGAMC\\CisternasGAMC.csproj",
+        "packagesPath": "C:\\Users\\LiaR\\.nuget\\packages\\",
+        "outputPath": "D:\\CisternasGAMC\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Kiurt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LiaR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -104,7 +108,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
